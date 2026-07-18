@@ -1,0 +1,961 @@
+data,ano,mes,loja,produto_id,produto,categoria,campanha,quantidade,preco_unitario,vendas_totais
+2024-01,2024,1,Barcelona Centro,1,Aura Starter Kit,Starter,2,58,8.5,493.0
+2024-01,2024,1,Barcelona Centro,2,Aura Device,Device,0,87,5.0,435.0
+2024-01,2024,1,Barcelona Centro,3,Aura Pods,Pods,2,133,4.25,565.25
+2024-01,2024,1,Barcelona Centro,4,Aura Nicotine Pouches,Pouches,0,51,5.0,255.0
+2024-01,2024,1,Eixample,1,Aura Starter Kit,Starter,0,44,8.5,374.0
+2024-01,2024,1,Eixample,2,Aura Device,Device,0,45,5.0,225.0
+2024-01,2024,1,Eixample,3,Aura Pods,Pods,1,234,4.25,994.5
+2024-01,2024,1,Eixample,4,Aura Nicotine Pouches,Pouches,0,88,5.0,440.0
+2024-01,2024,1,Gracia,1,Aura Starter Kit,Starter,0,45,8.5,382.5
+2024-01,2024,1,Gracia,2,Aura Device,Device,0,37,5.0,185.0
+2024-01,2024,1,Gracia,3,Aura Pods,Pods,1,97,4.25,412.25
+2024-01,2024,1,Gracia,4,Aura Nicotine Pouches,Pouches,2,67,5.0,335.0
+2024-01,2024,1,Sants,1,Aura Starter Kit,Starter,0,34,8.5,289.0
+2024-01,2024,1,Sants,2,Aura Device,Device,2,45,5.0,225.0
+2024-01,2024,1,Sants,3,Aura Pods,Pods,1,166,4.25,705.5
+2024-01,2024,1,Sants,4,Aura Nicotine Pouches,Pouches,1,120,5.0,600.0
+2024-01,2024,1,Poblenou,1,Aura Starter Kit,Starter,2,36,8.5,306.0
+2024-01,2024,1,Poblenou,2,Aura Device,Device,0,87,5.0,435.0
+2024-01,2024,1,Poblenou,3,Aura Pods,Pods,0,127,4.25,539.75
+2024-01,2024,1,Poblenou,4,Aura Nicotine Pouches,Pouches,3,168,5.0,840.0
+2024-01,2024,1,Diagonal Mar,1,Aura Starter Kit,Starter,2,20,8.5,170.0
+2024-01,2024,1,Diagonal Mar,2,Aura Device,Device,1,44,5.0,220.0
+2024-01,2024,1,Diagonal Mar,3,Aura Pods,Pods,1,218,4.25,926.5
+2024-01,2024,1,Diagonal Mar,4,Aura Nicotine Pouches,Pouches,2,64,5.0,320.0
+2024-01,2024,1,Les Corts,1,Aura Starter Kit,Starter,3,41,8.5,348.5
+2024-01,2024,1,Les Corts,2,Aura Device,Device,3,57,5.0,285.0
+2024-01,2024,1,Les Corts,3,Aura Pods,Pods,3,198,4.25,841.5
+2024-01,2024,1,Les Corts,4,Aura Nicotine Pouches,Pouches,0,111,5.0,555.0
+2024-01,2024,1,El Born,1,Aura Starter Kit,Starter,1,55,8.5,467.5
+2024-01,2024,1,El Born,2,Aura Device,Device,0,44,5.0,220.0
+2024-01,2024,1,El Born,3,Aura Pods,Pods,3,141,4.25,599.25
+2024-01,2024,1,El Born,4,Aura Nicotine Pouches,Pouches,0,105,5.0,525.0
+2024-01,2024,1,Nou Barris,1,Aura Starter Kit,Starter,0,56,8.5,476.0
+2024-01,2024,1,Nou Barris,2,Aura Device,Device,3,55,5.0,275.0
+2024-01,2024,1,Nou Barris,3,Aura Pods,Pods,2,124,4.25,527.0
+2024-01,2024,1,Nou Barris,4,Aura Nicotine Pouches,Pouches,3,75,5.0,375.0
+2024-01,2024,1,Sant Martí,1,Aura Starter Kit,Starter,0,35,8.5,297.5
+2024-01,2024,1,Sant Martí,2,Aura Device,Device,3,32,5.0,160.0
+2024-01,2024,1,Sant Martí,3,Aura Pods,Pods,0,119,4.25,505.75
+2024-01,2024,1,Sant Martí,4,Aura Nicotine Pouches,Pouches,0,138,5.0,690.0
+2024-02,2024,2,Barcelona Centro,1,Aura Starter Kit,Starter,3,35,8.5,297.5
+2024-02,2024,2,Barcelona Centro,2,Aura Device,Device,3,77,5.0,385.0
+2024-02,2024,2,Barcelona Centro,3,Aura Pods,Pods,0,184,4.25,782.0
+2024-02,2024,2,Barcelona Centro,4,Aura Nicotine Pouches,Pouches,2,82,5.0,410.0
+2024-02,2024,2,Eixample,1,Aura Starter Kit,Starter,1,46,8.5,391.0
+2024-02,2024,2,Eixample,2,Aura Device,Device,0,47,5.0,235.0
+2024-02,2024,2,Eixample,3,Aura Pods,Pods,0,120,4.25,510.0
+2024-02,2024,2,Eixample,4,Aura Nicotine Pouches,Pouches,3,71,5.0,355.0
+2024-02,2024,2,Gracia,1,Aura Starter Kit,Starter,0,41,8.5,348.5
+2024-02,2024,2,Gracia,2,Aura Device,Device,3,83,5.0,415.0
+2024-02,2024,2,Gracia,3,Aura Pods,Pods,1,228,4.25,969.0
+2024-02,2024,2,Gracia,4,Aura Nicotine Pouches,Pouches,2,84,5.0,420.0
+2024-02,2024,2,Sants,1,Aura Starter Kit,Starter,0,25,8.5,212.5
+2024-02,2024,2,Sants,2,Aura Device,Device,1,82,5.0,410.0
+2024-02,2024,2,Sants,3,Aura Pods,Pods,3,111,4.25,471.75
+2024-02,2024,2,Sants,4,Aura Nicotine Pouches,Pouches,3,180,5.0,900.0
+2024-02,2024,2,Poblenou,1,Aura Starter Kit,Starter,0,41,8.5,348.5
+2024-02,2024,2,Poblenou,2,Aura Device,Device,2,69,5.0,345.0
+2024-02,2024,2,Poblenou,3,Aura Pods,Pods,1,237,4.25,1007.25
+2024-02,2024,2,Poblenou,4,Aura Nicotine Pouches,Pouches,1,56,5.0,280.0
+2024-02,2024,2,Diagonal Mar,1,Aura Starter Kit,Starter,0,35,8.5,297.5
+2024-02,2024,2,Diagonal Mar,2,Aura Device,Device,1,61,5.0,305.0
+2024-02,2024,2,Diagonal Mar,3,Aura Pods,Pods,1,121,4.25,514.25
+2024-02,2024,2,Diagonal Mar,4,Aura Nicotine Pouches,Pouches,1,103,5.0,515.0
+2024-02,2024,2,Les Corts,1,Aura Starter Kit,Starter,1,28,8.5,238.0
+2024-02,2024,2,Les Corts,2,Aura Device,Device,2,64,5.0,320.0
+2024-02,2024,2,Les Corts,3,Aura Pods,Pods,0,109,4.25,463.25
+2024-02,2024,2,Les Corts,4,Aura Nicotine Pouches,Pouches,0,139,5.0,695.0
+2024-02,2024,2,El Born,1,Aura Starter Kit,Starter,0,20,8.5,170.0
+2024-02,2024,2,El Born,2,Aura Device,Device,0,77,5.0,385.0
+2024-02,2024,2,El Born,3,Aura Pods,Pods,1,171,4.25,726.75
+2024-02,2024,2,El Born,4,Aura Nicotine Pouches,Pouches,0,65,5.0,325.0
+2024-02,2024,2,Nou Barris,1,Aura Starter Kit,Starter,3,49,8.5,416.5
+2024-02,2024,2,Nou Barris,2,Aura Device,Device,3,77,5.0,385.0
+2024-02,2024,2,Nou Barris,3,Aura Pods,Pods,3,89,4.25,378.25
+2024-02,2024,2,Nou Barris,4,Aura Nicotine Pouches,Pouches,1,68,5.0,340.0
+2024-02,2024,2,Sant Martí,1,Aura Starter Kit,Starter,3,43,8.5,365.5
+2024-02,2024,2,Sant Martí,2,Aura Device,Device,1,49,5.0,245.0
+2024-02,2024,2,Sant Martí,3,Aura Pods,Pods,3,130,4.25,552.5
+2024-02,2024,2,Sant Martí,4,Aura Nicotine Pouches,Pouches,0,92,5.0,460.0
+2024-03,2024,3,Barcelona Centro,1,Aura Starter Kit,Starter,0,54,8.5,459.0
+2024-03,2024,3,Barcelona Centro,2,Aura Device,Device,0,63,5.0,315.0
+2024-03,2024,3,Barcelona Centro,3,Aura Pods,Pods,3,154,4.25,654.5
+2024-03,2024,3,Barcelona Centro,4,Aura Nicotine Pouches,Pouches,1,59,5.0,295.0
+2024-03,2024,3,Eixample,1,Aura Starter Kit,Starter,0,55,8.5,467.5
+2024-03,2024,3,Eixample,2,Aura Device,Device,0,66,5.0,330.0
+2024-03,2024,3,Eixample,3,Aura Pods,Pods,3,109,4.25,463.25
+2024-03,2024,3,Eixample,4,Aura Nicotine Pouches,Pouches,0,108,5.0,540.0
+2024-03,2024,3,Gracia,1,Aura Starter Kit,Starter,0,28,8.5,238.0
+2024-03,2024,3,Gracia,2,Aura Device,Device,0,76,5.0,380.0
+2024-03,2024,3,Gracia,3,Aura Pods,Pods,2,213,4.25,905.25
+2024-03,2024,3,Gracia,4,Aura Nicotine Pouches,Pouches,3,113,5.0,565.0
+2024-03,2024,3,Sants,1,Aura Starter Kit,Starter,0,48,8.5,408.0
+2024-03,2024,3,Sants,2,Aura Device,Device,3,73,5.0,365.0
+2024-03,2024,3,Sants,3,Aura Pods,Pods,3,88,4.25,374.0
+2024-03,2024,3,Sants,4,Aura Nicotine Pouches,Pouches,1,132,5.0,660.0
+2024-03,2024,3,Poblenou,1,Aura Starter Kit,Starter,3,26,8.5,221.0
+2024-03,2024,3,Poblenou,2,Aura Device,Device,1,73,5.0,365.0
+2024-03,2024,3,Poblenou,3,Aura Pods,Pods,0,146,4.25,620.5
+2024-03,2024,3,Poblenou,4,Aura Nicotine Pouches,Pouches,0,121,5.0,605.0
+2024-03,2024,3,Diagonal Mar,1,Aura Starter Kit,Starter,3,44,8.5,374.0
+2024-03,2024,3,Diagonal Mar,2,Aura Device,Device,1,61,5.0,305.0
+2024-03,2024,3,Diagonal Mar,3,Aura Pods,Pods,0,180,4.25,765.0
+2024-03,2024,3,Diagonal Mar,4,Aura Nicotine Pouches,Pouches,2,98,5.0,490.0
+2024-03,2024,3,Les Corts,1,Aura Starter Kit,Starter,2,35,8.5,297.5
+2024-03,2024,3,Les Corts,2,Aura Device,Device,1,67,5.0,335.0
+2024-03,2024,3,Les Corts,3,Aura Pods,Pods,0,169,4.25,718.25
+2024-03,2024,3,Les Corts,4,Aura Nicotine Pouches,Pouches,3,186,5.0,930.0
+2024-03,2024,3,El Born,1,Aura Starter Kit,Starter,2,39,8.5,331.5
+2024-03,2024,3,El Born,2,Aura Device,Device,3,35,5.0,175.0
+2024-03,2024,3,El Born,3,Aura Pods,Pods,3,135,4.25,573.75
+2024-03,2024,3,El Born,4,Aura Nicotine Pouches,Pouches,1,114,5.0,570.0
+2024-03,2024,3,Nou Barris,1,Aura Starter Kit,Starter,3,44,8.5,374.0
+2024-03,2024,3,Nou Barris,2,Aura Device,Device,0,64,5.0,320.0
+2024-03,2024,3,Nou Barris,3,Aura Pods,Pods,3,148,4.25,629.0
+2024-03,2024,3,Nou Barris,4,Aura Nicotine Pouches,Pouches,2,86,5.0,430.0
+2024-03,2024,3,Sant Martí,1,Aura Starter Kit,Starter,3,20,8.5,170.0
+2024-03,2024,3,Sant Martí,2,Aura Device,Device,0,61,5.0,305.0
+2024-03,2024,3,Sant Martí,3,Aura Pods,Pods,2,172,4.25,731.0
+2024-03,2024,3,Sant Martí,4,Aura Nicotine Pouches,Pouches,0,54,5.0,270.0
+2024-04,2024,4,Barcelona Centro,1,Aura Starter Kit,Starter,2,42,8.5,357.0
+2024-04,2024,4,Barcelona Centro,2,Aura Device,Device,2,67,5.0,335.0
+2024-04,2024,4,Barcelona Centro,3,Aura Pods,Pods,1,189,4.25,803.25
+2024-04,2024,4,Barcelona Centro,4,Aura Nicotine Pouches,Pouches,3,171,5.0,855.0
+2024-04,2024,4,Eixample,1,Aura Starter Kit,Starter,0,48,8.5,408.0
+2024-04,2024,4,Eixample,2,Aura Device,Device,0,53,5.0,265.0
+2024-04,2024,4,Eixample,3,Aura Pods,Pods,0,122,4.25,518.5
+2024-04,2024,4,Eixample,4,Aura Nicotine Pouches,Pouches,1,144,5.0,720.0
+2024-04,2024,4,Gracia,1,Aura Starter Kit,Starter,3,44,8.5,374.0
+2024-04,2024,4,Gracia,2,Aura Device,Device,0,87,5.0,435.0
+2024-04,2024,4,Gracia,3,Aura Pods,Pods,0,101,4.25,429.25
+2024-04,2024,4,Gracia,4,Aura Nicotine Pouches,Pouches,0,83,5.0,415.0
+2024-04,2024,4,Sants,1,Aura Starter Kit,Starter,0,41,8.5,348.5
+2024-04,2024,4,Sants,2,Aura Device,Device,3,55,5.0,275.0
+2024-04,2024,4,Sants,3,Aura Pods,Pods,0,126,4.25,535.5
+2024-04,2024,4,Sants,4,Aura Nicotine Pouches,Pouches,2,137,5.0,685.0
+2024-04,2024,4,Poblenou,1,Aura Starter Kit,Starter,3,22,8.5,187.0
+2024-04,2024,4,Poblenou,2,Aura Device,Device,0,87,5.0,435.0
+2024-04,2024,4,Poblenou,3,Aura Pods,Pods,0,107,4.25,454.75
+2024-04,2024,4,Poblenou,4,Aura Nicotine Pouches,Pouches,0,93,5.0,465.0
+2024-04,2024,4,Diagonal Mar,1,Aura Starter Kit,Starter,0,37,8.5,314.5
+2024-04,2024,4,Diagonal Mar,2,Aura Device,Device,1,78,5.0,390.0
+2024-04,2024,4,Diagonal Mar,3,Aura Pods,Pods,1,171,4.25,726.75
+2024-04,2024,4,Diagonal Mar,4,Aura Nicotine Pouches,Pouches,0,82,5.0,410.0
+2024-04,2024,4,Les Corts,1,Aura Starter Kit,Starter,0,49,8.5,416.5
+2024-04,2024,4,Les Corts,2,Aura Device,Device,0,84,5.0,420.0
+2024-04,2024,4,Les Corts,3,Aura Pods,Pods,0,85,4.25,361.25
+2024-04,2024,4,Les Corts,4,Aura Nicotine Pouches,Pouches,0,143,5.0,715.0
+2024-04,2024,4,El Born,1,Aura Starter Kit,Starter,1,32,8.5,272.0
+2024-04,2024,4,El Born,2,Aura Device,Device,1,33,5.0,165.0
+2024-04,2024,4,El Born,3,Aura Pods,Pods,2,219,4.25,930.75
+2024-04,2024,4,El Born,4,Aura Nicotine Pouches,Pouches,1,126,5.0,630.0
+2024-04,2024,4,Nou Barris,1,Aura Starter Kit,Starter,1,50,8.5,425.0
+2024-04,2024,4,Nou Barris,2,Aura Device,Device,0,66,5.0,330.0
+2024-04,2024,4,Nou Barris,3,Aura Pods,Pods,0,114,4.25,484.5
+2024-04,2024,4,Nou Barris,4,Aura Nicotine Pouches,Pouches,3,158,5.0,790.0
+2024-04,2024,4,Sant Martí,1,Aura Starter Kit,Starter,2,20,8.5,170.0
+2024-04,2024,4,Sant Martí,2,Aura Device,Device,2,70,5.0,350.0
+2024-04,2024,4,Sant Martí,3,Aura Pods,Pods,2,210,4.25,892.5
+2024-04,2024,4,Sant Martí,4,Aura Nicotine Pouches,Pouches,2,138,5.0,690.0
+2024-05,2024,5,Barcelona Centro,1,Aura Starter Kit,Starter,1,68,8.5,578.0
+2024-05,2024,5,Barcelona Centro,2,Aura Device,Device,0,76,5.0,380.0
+2024-05,2024,5,Barcelona Centro,3,Aura Pods,Pods,1,156,4.25,663.0
+2024-05,2024,5,Barcelona Centro,4,Aura Nicotine Pouches,Pouches,3,80,5.0,400.0
+2024-05,2024,5,Eixample,1,Aura Starter Kit,Starter,0,48,8.5,408.0
+2024-05,2024,5,Eixample,2,Aura Device,Device,1,33,5.0,165.0
+2024-05,2024,5,Eixample,3,Aura Pods,Pods,1,140,4.25,595.0
+2024-05,2024,5,Eixample,4,Aura Nicotine Pouches,Pouches,2,64,5.0,320.0
+2024-05,2024,5,Gracia,1,Aura Starter Kit,Starter,0,21,8.5,178.5
+2024-05,2024,5,Gracia,2,Aura Device,Device,0,56,5.0,280.0
+2024-05,2024,5,Gracia,3,Aura Pods,Pods,1,181,4.25,769.25
+2024-05,2024,5,Gracia,4,Aura Nicotine Pouches,Pouches,0,111,5.0,555.0
+2024-05,2024,5,Sants,1,Aura Starter Kit,Starter,3,55,8.5,467.5
+2024-05,2024,5,Sants,2,Aura Device,Device,1,78,5.0,390.0
+2024-05,2024,5,Sants,3,Aura Pods,Pods,3,119,4.25,505.75
+2024-05,2024,5,Sants,4,Aura Nicotine Pouches,Pouches,3,173,5.0,865.0
+2024-05,2024,5,Poblenou,1,Aura Starter Kit,Starter,2,59,8.5,501.5
+2024-05,2024,5,Poblenou,2,Aura Device,Device,0,86,5.0,430.0
+2024-05,2024,5,Poblenou,3,Aura Pods,Pods,3,154,4.25,654.5
+2024-05,2024,5,Poblenou,4,Aura Nicotine Pouches,Pouches,0,92,5.0,460.0
+2024-05,2024,5,Diagonal Mar,1,Aura Starter Kit,Starter,0,25,8.5,212.5
+2024-05,2024,5,Diagonal Mar,2,Aura Device,Device,0,55,5.0,275.0
+2024-05,2024,5,Diagonal Mar,3,Aura Pods,Pods,1,153,4.25,650.25
+2024-05,2024,5,Diagonal Mar,4,Aura Nicotine Pouches,Pouches,1,120,5.0,600.0
+2024-05,2024,5,Les Corts,1,Aura Starter Kit,Starter,0,38,8.5,323.0
+2024-05,2024,5,Les Corts,2,Aura Device,Device,1,45,5.0,225.0
+2024-05,2024,5,Les Corts,3,Aura Pods,Pods,1,174,4.25,739.5
+2024-05,2024,5,Les Corts,4,Aura Nicotine Pouches,Pouches,0,53,5.0,265.0
+2024-05,2024,5,El Born,1,Aura Starter Kit,Starter,3,29,8.5,246.5
+2024-05,2024,5,El Born,2,Aura Device,Device,2,61,5.0,305.0
+2024-05,2024,5,El Born,3,Aura Pods,Pods,0,167,4.25,709.75
+2024-05,2024,5,El Born,4,Aura Nicotine Pouches,Pouches,3,145,5.0,725.0
+2024-05,2024,5,Nou Barris,1,Aura Starter Kit,Starter,2,43,8.5,365.5
+2024-05,2024,5,Nou Barris,2,Aura Device,Device,0,66,5.0,330.0
+2024-05,2024,5,Nou Barris,3,Aura Pods,Pods,0,153,4.25,650.25
+2024-05,2024,5,Nou Barris,4,Aura Nicotine Pouches,Pouches,2,85,5.0,425.0
+2024-05,2024,5,Sant Martí,1,Aura Starter Kit,Starter,0,30,8.5,255.0
+2024-05,2024,5,Sant Martí,2,Aura Device,Device,0,34,5.0,170.0
+2024-05,2024,5,Sant Martí,3,Aura Pods,Pods,3,178,4.25,756.5
+2024-05,2024,5,Sant Martí,4,Aura Nicotine Pouches,Pouches,3,135,5.0,675.0
+2024-06,2024,6,Barcelona Centro,1,Aura Starter Kit,Starter,2,33,8.5,280.5
+2024-06,2024,6,Barcelona Centro,2,Aura Device,Device,3,51,5.0,255.0
+2024-06,2024,6,Barcelona Centro,3,Aura Pods,Pods,2,215,4.25,913.75
+2024-06,2024,6,Barcelona Centro,4,Aura Nicotine Pouches,Pouches,0,90,5.0,450.0
+2024-06,2024,6,Eixample,1,Aura Starter Kit,Starter,0,42,8.5,357.0
+2024-06,2024,6,Eixample,2,Aura Device,Device,1,56,5.0,280.0
+2024-06,2024,6,Eixample,3,Aura Pods,Pods,3,124,4.25,527.0
+2024-06,2024,6,Eixample,4,Aura Nicotine Pouches,Pouches,0,51,5.0,255.0
+2024-06,2024,6,Gracia,1,Aura Starter Kit,Starter,0,45,8.5,382.5
+2024-06,2024,6,Gracia,2,Aura Device,Device,0,88,5.0,440.0
+2024-06,2024,6,Gracia,3,Aura Pods,Pods,0,197,4.25,837.25
+2024-06,2024,6,Gracia,4,Aura Nicotine Pouches,Pouches,1,132,5.0,660.0
+2024-06,2024,6,Sants,1,Aura Starter Kit,Starter,2,53,8.5,450.5
+2024-06,2024,6,Sants,2,Aura Device,Device,1,30,5.0,150.0
+2024-06,2024,6,Sants,3,Aura Pods,Pods,0,82,4.25,348.5
+2024-06,2024,6,Sants,4,Aura Nicotine Pouches,Pouches,0,61,5.0,305.0
+2024-06,2024,6,Poblenou,1,Aura Starter Kit,Starter,2,29,8.5,246.5
+2024-06,2024,6,Poblenou,2,Aura Device,Device,2,48,5.0,240.0
+2024-06,2024,6,Poblenou,3,Aura Pods,Pods,3,149,4.25,633.25
+2024-06,2024,6,Poblenou,4,Aura Nicotine Pouches,Pouches,0,75,5.0,375.0
+2024-06,2024,6,Diagonal Mar,1,Aura Starter Kit,Starter,1,48,8.5,408.0
+2024-06,2024,6,Diagonal Mar,2,Aura Device,Device,3,80,5.0,400.0
+2024-06,2024,6,Diagonal Mar,3,Aura Pods,Pods,0,173,4.25,735.25
+2024-06,2024,6,Diagonal Mar,4,Aura Nicotine Pouches,Pouches,1,63,5.0,315.0
+2024-06,2024,6,Les Corts,1,Aura Starter Kit,Starter,1,67,8.5,569.5
+2024-06,2024,6,Les Corts,2,Aura Device,Device,1,85,5.0,425.0
+2024-06,2024,6,Les Corts,3,Aura Pods,Pods,1,114,4.25,484.5
+2024-06,2024,6,Les Corts,4,Aura Nicotine Pouches,Pouches,0,83,5.0,415.0
+2024-06,2024,6,El Born,1,Aura Starter Kit,Starter,0,54,8.5,459.0
+2024-06,2024,6,El Born,2,Aura Device,Device,1,82,5.0,410.0
+2024-06,2024,6,El Born,3,Aura Pods,Pods,1,130,4.25,552.5
+2024-06,2024,6,El Born,4,Aura Nicotine Pouches,Pouches,1,52,5.0,260.0
+2024-06,2024,6,Nou Barris,1,Aura Starter Kit,Starter,0,56,8.5,476.0
+2024-06,2024,6,Nou Barris,2,Aura Device,Device,0,78,5.0,390.0
+2024-06,2024,6,Nou Barris,3,Aura Pods,Pods,0,180,4.25,765.0
+2024-06,2024,6,Nou Barris,4,Aura Nicotine Pouches,Pouches,3,75,5.0,375.0
+2024-06,2024,6,Sant Martí,1,Aura Starter Kit,Starter,3,27,8.5,229.5
+2024-06,2024,6,Sant Martí,2,Aura Device,Device,0,39,5.0,195.0
+2024-06,2024,6,Sant Martí,3,Aura Pods,Pods,0,199,4.25,845.75
+2024-06,2024,6,Sant Martí,4,Aura Nicotine Pouches,Pouches,1,148,5.0,740.0
+2024-07,2024,7,Barcelona Centro,1,Aura Starter Kit,Starter,2,37,8.5,314.5
+2024-07,2024,7,Barcelona Centro,2,Aura Device,Device,2,85,5.0,425.0
+2024-07,2024,7,Barcelona Centro,3,Aura Pods,Pods,3,90,4.25,382.5
+2024-07,2024,7,Barcelona Centro,4,Aura Nicotine Pouches,Pouches,3,92,5.0,460.0
+2024-07,2024,7,Eixample,1,Aura Starter Kit,Starter,0,30,8.5,255.0
+2024-07,2024,7,Eixample,2,Aura Device,Device,0,34,5.0,170.0
+2024-07,2024,7,Eixample,3,Aura Pods,Pods,0,107,4.25,454.75
+2024-07,2024,7,Eixample,4,Aura Nicotine Pouches,Pouches,3,177,5.0,885.0
+2024-07,2024,7,Gracia,1,Aura Starter Kit,Starter,0,32,8.5,272.0
+2024-07,2024,7,Gracia,2,Aura Device,Device,0,62,5.0,310.0
+2024-07,2024,7,Gracia,3,Aura Pods,Pods,2,171,4.25,726.75
+2024-07,2024,7,Gracia,4,Aura Nicotine Pouches,Pouches,3,117,5.0,585.0
+2024-07,2024,7,Sants,1,Aura Starter Kit,Starter,3,49,8.5,416.5
+2024-07,2024,7,Sants,2,Aura Device,Device,0,41,5.0,205.0
+2024-07,2024,7,Sants,3,Aura Pods,Pods,0,96,4.25,408.0
+2024-07,2024,7,Sants,4,Aura Nicotine Pouches,Pouches,0,119,5.0,595.0
+2024-07,2024,7,Poblenou,1,Aura Starter Kit,Starter,2,47,8.5,399.5
+2024-07,2024,7,Poblenou,2,Aura Device,Device,2,61,5.0,305.0
+2024-07,2024,7,Poblenou,3,Aura Pods,Pods,1,115,4.25,488.75
+2024-07,2024,7,Poblenou,4,Aura Nicotine Pouches,Pouches,3,123,5.0,615.0
+2024-07,2024,7,Diagonal Mar,1,Aura Starter Kit,Starter,0,31,8.5,263.5
+2024-07,2024,7,Diagonal Mar,2,Aura Device,Device,0,80,5.0,400.0
+2024-07,2024,7,Diagonal Mar,3,Aura Pods,Pods,1,99,4.25,420.75
+2024-07,2024,7,Diagonal Mar,4,Aura Nicotine Pouches,Pouches,0,78,5.0,390.0
+2024-07,2024,7,Les Corts,1,Aura Starter Kit,Starter,0,30,8.5,255.0
+2024-07,2024,7,Les Corts,2,Aura Device,Device,3,50,5.0,250.0
+2024-07,2024,7,Les Corts,3,Aura Pods,Pods,3,148,4.25,629.0
+2024-07,2024,7,Les Corts,4,Aura Nicotine Pouches,Pouches,0,110,5.0,550.0
+2024-07,2024,7,El Born,1,Aura Starter Kit,Starter,1,42,8.5,357.0
+2024-07,2024,7,El Born,2,Aura Device,Device,2,37,5.0,185.0
+2024-07,2024,7,El Born,3,Aura Pods,Pods,0,143,4.25,607.75
+2024-07,2024,7,El Born,4,Aura Nicotine Pouches,Pouches,1,64,5.0,320.0
+2024-07,2024,7,Nou Barris,1,Aura Starter Kit,Starter,1,66,8.5,561.0
+2024-07,2024,7,Nou Barris,2,Aura Device,Device,0,82,5.0,410.0
+2024-07,2024,7,Nou Barris,3,Aura Pods,Pods,1,181,4.25,769.25
+2024-07,2024,7,Nou Barris,4,Aura Nicotine Pouches,Pouches,0,87,5.0,435.0
+2024-07,2024,7,Sant Martí,1,Aura Starter Kit,Starter,2,27,8.5,229.5
+2024-07,2024,7,Sant Martí,2,Aura Device,Device,0,75,5.0,375.0
+2024-07,2024,7,Sant Martí,3,Aura Pods,Pods,2,198,4.25,841.5
+2024-07,2024,7,Sant Martí,4,Aura Nicotine Pouches,Pouches,0,126,5.0,630.0
+2024-08,2024,8,Barcelona Centro,1,Aura Starter Kit,Starter,1,68,8.5,578.0
+2024-08,2024,8,Barcelona Centro,2,Aura Device,Device,2,84,5.0,420.0
+2024-08,2024,8,Barcelona Centro,3,Aura Pods,Pods,3,88,4.25,374.0
+2024-08,2024,8,Barcelona Centro,4,Aura Nicotine Pouches,Pouches,3,71,5.0,355.0
+2024-08,2024,8,Eixample,1,Aura Starter Kit,Starter,2,26,8.5,221.0
+2024-08,2024,8,Eixample,2,Aura Device,Device,0,32,5.0,160.0
+2024-08,2024,8,Eixample,3,Aura Pods,Pods,0,91,4.25,386.75
+2024-08,2024,8,Eixample,4,Aura Nicotine Pouches,Pouches,1,104,5.0,520.0
+2024-08,2024,8,Gracia,1,Aura Starter Kit,Starter,1,61,8.5,518.5
+2024-08,2024,8,Gracia,2,Aura Device,Device,1,61,5.0,305.0
+2024-08,2024,8,Gracia,3,Aura Pods,Pods,0,140,4.25,595.0
+2024-08,2024,8,Gracia,4,Aura Nicotine Pouches,Pouches,3,178,5.0,890.0
+2024-08,2024,8,Sants,1,Aura Starter Kit,Starter,0,47,8.5,399.5
+2024-08,2024,8,Sants,2,Aura Device,Device,1,61,5.0,305.0
+2024-08,2024,8,Sants,3,Aura Pods,Pods,3,158,4.25,671.5
+2024-08,2024,8,Sants,4,Aura Nicotine Pouches,Pouches,0,61,5.0,305.0
+2024-08,2024,8,Poblenou,1,Aura Starter Kit,Starter,2,45,8.5,382.5
+2024-08,2024,8,Poblenou,2,Aura Device,Device,1,43,5.0,215.0
+2024-08,2024,8,Poblenou,3,Aura Pods,Pods,3,197,4.25,837.25
+2024-08,2024,8,Poblenou,4,Aura Nicotine Pouches,Pouches,0,51,5.0,255.0
+2024-08,2024,8,Diagonal Mar,1,Aura Starter Kit,Starter,2,54,8.5,459.0
+2024-08,2024,8,Diagonal Mar,2,Aura Device,Device,0,74,5.0,370.0
+2024-08,2024,8,Diagonal Mar,3,Aura Pods,Pods,1,190,4.25,807.5
+2024-08,2024,8,Diagonal Mar,4,Aura Nicotine Pouches,Pouches,1,69,5.0,345.0
+2024-08,2024,8,Les Corts,1,Aura Starter Kit,Starter,0,47,8.5,399.5
+2024-08,2024,8,Les Corts,2,Aura Device,Device,2,78,5.0,390.0
+2024-08,2024,8,Les Corts,3,Aura Pods,Pods,0,140,4.25,595.0
+2024-08,2024,8,Les Corts,4,Aura Nicotine Pouches,Pouches,0,75,5.0,375.0
+2024-08,2024,8,El Born,1,Aura Starter Kit,Starter,0,24,8.5,204.0
+2024-08,2024,8,El Born,2,Aura Device,Device,3,79,5.0,395.0
+2024-08,2024,8,El Born,3,Aura Pods,Pods,1,163,4.25,692.75
+2024-08,2024,8,El Born,4,Aura Nicotine Pouches,Pouches,0,87,5.0,435.0
+2024-08,2024,8,Nou Barris,1,Aura Starter Kit,Starter,3,27,8.5,229.5
+2024-08,2024,8,Nou Barris,2,Aura Device,Device,3,34,5.0,170.0
+2024-08,2024,8,Nou Barris,3,Aura Pods,Pods,2,158,4.25,671.5
+2024-08,2024,8,Nou Barris,4,Aura Nicotine Pouches,Pouches,0,125,5.0,625.0
+2024-08,2024,8,Sant Martí,1,Aura Starter Kit,Starter,2,50,8.5,425.0
+2024-08,2024,8,Sant Martí,2,Aura Device,Device,0,57,5.0,285.0
+2024-08,2024,8,Sant Martí,3,Aura Pods,Pods,3,168,4.25,714.0
+2024-08,2024,8,Sant Martí,4,Aura Nicotine Pouches,Pouches,2,117,5.0,585.0
+2024-09,2024,9,Barcelona Centro,1,Aura Starter Kit,Starter,2,53,8.5,450.5
+2024-09,2024,9,Barcelona Centro,2,Aura Device,Device,0,53,5.0,265.0
+2024-09,2024,9,Barcelona Centro,3,Aura Pods,Pods,1,180,4.25,765.0
+2024-09,2024,9,Barcelona Centro,4,Aura Nicotine Pouches,Pouches,0,145,5.0,725.0
+2024-09,2024,9,Eixample,1,Aura Starter Kit,Starter,2,33,8.5,280.5
+2024-09,2024,9,Eixample,2,Aura Device,Device,3,77,5.0,385.0
+2024-09,2024,9,Eixample,3,Aura Pods,Pods,0,84,4.25,357.0
+2024-09,2024,9,Eixample,4,Aura Nicotine Pouches,Pouches,1,97,5.0,485.0
+2024-09,2024,9,Gracia,1,Aura Starter Kit,Starter,0,40,8.5,340.0
+2024-09,2024,9,Gracia,2,Aura Device,Device,2,54,5.0,270.0
+2024-09,2024,9,Gracia,3,Aura Pods,Pods,0,98,4.25,416.5
+2024-09,2024,9,Gracia,4,Aura Nicotine Pouches,Pouches,3,95,5.0,475.0
+2024-09,2024,9,Sants,1,Aura Starter Kit,Starter,2,49,8.5,416.5
+2024-09,2024,9,Sants,2,Aura Device,Device,0,40,5.0,200.0
+2024-09,2024,9,Sants,3,Aura Pods,Pods,0,142,4.25,603.5
+2024-09,2024,9,Sants,4,Aura Nicotine Pouches,Pouches,0,117,5.0,585.0
+2024-09,2024,9,Poblenou,1,Aura Starter Kit,Starter,2,32,8.5,272.0
+2024-09,2024,9,Poblenou,2,Aura Device,Device,2,38,5.0,190.0
+2024-09,2024,9,Poblenou,3,Aura Pods,Pods,0,103,4.25,437.75
+2024-09,2024,9,Poblenou,4,Aura Nicotine Pouches,Pouches,3,85,5.0,425.0
+2024-09,2024,9,Diagonal Mar,1,Aura Starter Kit,Starter,1,34,8.5,289.0
+2024-09,2024,9,Diagonal Mar,2,Aura Device,Device,1,63,5.0,315.0
+2024-09,2024,9,Diagonal Mar,3,Aura Pods,Pods,2,148,4.25,629.0
+2024-09,2024,9,Diagonal Mar,4,Aura Nicotine Pouches,Pouches,1,106,5.0,530.0
+2024-09,2024,9,Les Corts,1,Aura Starter Kit,Starter,1,26,8.5,221.0
+2024-09,2024,9,Les Corts,2,Aura Device,Device,0,53,5.0,265.0
+2024-09,2024,9,Les Corts,3,Aura Pods,Pods,2,153,4.25,650.25
+2024-09,2024,9,Les Corts,4,Aura Nicotine Pouches,Pouches,0,122,5.0,610.0
+2024-09,2024,9,El Born,1,Aura Starter Kit,Starter,2,21,8.5,178.5
+2024-09,2024,9,El Born,2,Aura Device,Device,2,37,5.0,185.0
+2024-09,2024,9,El Born,3,Aura Pods,Pods,0,149,4.25,633.25
+2024-09,2024,9,El Born,4,Aura Nicotine Pouches,Pouches,1,136,5.0,680.0
+2024-09,2024,9,Nou Barris,1,Aura Starter Kit,Starter,2,32,8.5,272.0
+2024-09,2024,9,Nou Barris,2,Aura Device,Device,1,59,5.0,295.0
+2024-09,2024,9,Nou Barris,3,Aura Pods,Pods,1,195,4.25,828.75
+2024-09,2024,9,Nou Barris,4,Aura Nicotine Pouches,Pouches,2,54,5.0,270.0
+2024-09,2024,9,Sant Martí,1,Aura Starter Kit,Starter,2,39,8.5,331.5
+2024-09,2024,9,Sant Martí,2,Aura Device,Device,1,45,5.0,225.0
+2024-09,2024,9,Sant Martí,3,Aura Pods,Pods,0,102,4.25,433.5
+2024-09,2024,9,Sant Martí,4,Aura Nicotine Pouches,Pouches,1,122,5.0,610.0
+2024-10,2024,10,Barcelona Centro,1,Aura Starter Kit,Starter,1,44,8.5,374.0
+2024-10,2024,10,Barcelona Centro,2,Aura Device,Device,0,66,5.0,330.0
+2024-10,2024,10,Barcelona Centro,3,Aura Pods,Pods,0,124,4.25,527.0
+2024-10,2024,10,Barcelona Centro,4,Aura Nicotine Pouches,Pouches,0,129,5.0,645.0
+2024-10,2024,10,Eixample,1,Aura Starter Kit,Starter,2,46,8.5,391.0
+2024-10,2024,10,Eixample,2,Aura Device,Device,1,54,5.0,270.0
+2024-10,2024,10,Eixample,3,Aura Pods,Pods,2,187,4.25,794.75
+2024-10,2024,10,Eixample,4,Aura Nicotine Pouches,Pouches,3,112,5.0,560.0
+2024-10,2024,10,Gracia,1,Aura Starter Kit,Starter,0,23,8.5,195.5
+2024-10,2024,10,Gracia,2,Aura Device,Device,1,61,5.0,305.0
+2024-10,2024,10,Gracia,3,Aura Pods,Pods,2,184,4.25,782.0
+2024-10,2024,10,Gracia,4,Aura Nicotine Pouches,Pouches,0,132,5.0,660.0
+2024-10,2024,10,Sants,1,Aura Starter Kit,Starter,2,30,8.5,255.0
+2024-10,2024,10,Sants,2,Aura Device,Device,0,38,5.0,190.0
+2024-10,2024,10,Sants,3,Aura Pods,Pods,2,206,4.25,875.5
+2024-10,2024,10,Sants,4,Aura Nicotine Pouches,Pouches,0,101,5.0,505.0
+2024-10,2024,10,Poblenou,1,Aura Starter Kit,Starter,3,56,8.5,476.0
+2024-10,2024,10,Poblenou,2,Aura Device,Device,1,57,5.0,285.0
+2024-10,2024,10,Poblenou,3,Aura Pods,Pods,1,160,4.25,680.0
+2024-10,2024,10,Poblenou,4,Aura Nicotine Pouches,Pouches,2,59,5.0,295.0
+2024-10,2024,10,Diagonal Mar,1,Aura Starter Kit,Starter,0,45,8.5,382.5
+2024-10,2024,10,Diagonal Mar,2,Aura Device,Device,0,65,5.0,325.0
+2024-10,2024,10,Diagonal Mar,3,Aura Pods,Pods,0,134,4.25,569.5
+2024-10,2024,10,Diagonal Mar,4,Aura Nicotine Pouches,Pouches,1,131,5.0,655.0
+2024-10,2024,10,Les Corts,1,Aura Starter Kit,Starter,3,40,8.5,340.0
+2024-10,2024,10,Les Corts,2,Aura Device,Device,2,70,5.0,350.0
+2024-10,2024,10,Les Corts,3,Aura Pods,Pods,0,137,4.25,582.25
+2024-10,2024,10,Les Corts,4,Aura Nicotine Pouches,Pouches,3,71,5.0,355.0
+2024-10,2024,10,El Born,1,Aura Starter Kit,Starter,3,43,8.5,365.5
+2024-10,2024,10,El Born,2,Aura Device,Device,0,37,5.0,185.0
+2024-10,2024,10,El Born,3,Aura Pods,Pods,0,103,4.25,437.75
+2024-10,2024,10,El Born,4,Aura Nicotine Pouches,Pouches,0,80,5.0,400.0
+2024-10,2024,10,Nou Barris,1,Aura Starter Kit,Starter,0,47,8.5,399.5
+2024-10,2024,10,Nou Barris,2,Aura Device,Device,0,37,5.0,185.0
+2024-10,2024,10,Nou Barris,3,Aura Pods,Pods,2,226,4.25,960.5
+2024-10,2024,10,Nou Barris,4,Aura Nicotine Pouches,Pouches,0,116,5.0,580.0
+2024-10,2024,10,Sant Martí,1,Aura Starter Kit,Starter,2,29,8.5,246.5
+2024-10,2024,10,Sant Martí,2,Aura Device,Device,3,82,5.0,410.0
+2024-10,2024,10,Sant Martí,3,Aura Pods,Pods,0,89,4.25,378.25
+2024-10,2024,10,Sant Martí,4,Aura Nicotine Pouches,Pouches,1,108,5.0,540.0
+2024-11,2024,11,Barcelona Centro,1,Aura Starter Kit,Starter,0,39,8.5,331.5
+2024-11,2024,11,Barcelona Centro,2,Aura Device,Device,2,64,5.0,320.0
+2024-11,2024,11,Barcelona Centro,3,Aura Pods,Pods,0,126,4.25,535.5
+2024-11,2024,11,Barcelona Centro,4,Aura Nicotine Pouches,Pouches,0,56,5.0,280.0
+2024-11,2024,11,Eixample,1,Aura Starter Kit,Starter,3,44,8.5,374.0
+2024-11,2024,11,Eixample,2,Aura Device,Device,0,44,5.0,220.0
+2024-11,2024,11,Eixample,3,Aura Pods,Pods,2,159,4.25,675.75
+2024-11,2024,11,Eixample,4,Aura Nicotine Pouches,Pouches,0,112,5.0,560.0
+2024-11,2024,11,Gracia,1,Aura Starter Kit,Starter,2,44,8.5,374.0
+2024-11,2024,11,Gracia,2,Aura Device,Device,2,30,5.0,150.0
+2024-11,2024,11,Gracia,3,Aura Pods,Pods,3,143,4.25,607.75
+2024-11,2024,11,Gracia,4,Aura Nicotine Pouches,Pouches,0,140,5.0,700.0
+2024-11,2024,11,Sants,1,Aura Starter Kit,Starter,3,41,8.5,348.5
+2024-11,2024,11,Sants,2,Aura Device,Device,3,86,5.0,430.0
+2024-11,2024,11,Sants,3,Aura Pods,Pods,1,237,4.25,1007.25
+2024-11,2024,11,Sants,4,Aura Nicotine Pouches,Pouches,2,53,5.0,265.0
+2024-11,2024,11,Poblenou,1,Aura Starter Kit,Starter,0,40,8.5,340.0
+2024-11,2024,11,Poblenou,2,Aura Device,Device,2,89,5.0,445.0
+2024-11,2024,11,Poblenou,3,Aura Pods,Pods,2,120,4.25,510.0
+2024-11,2024,11,Poblenou,4,Aura Nicotine Pouches,Pouches,2,73,5.0,365.0
+2024-11,2024,11,Diagonal Mar,1,Aura Starter Kit,Starter,0,38,8.5,323.0
+2024-11,2024,11,Diagonal Mar,2,Aura Device,Device,3,60,5.0,300.0
+2024-11,2024,11,Diagonal Mar,3,Aura Pods,Pods,1,230,4.25,977.5
+2024-11,2024,11,Diagonal Mar,4,Aura Nicotine Pouches,Pouches,3,120,5.0,600.0
+2024-11,2024,11,Les Corts,1,Aura Starter Kit,Starter,1,27,8.5,229.5
+2024-11,2024,11,Les Corts,2,Aura Device,Device,0,89,5.0,445.0
+2024-11,2024,11,Les Corts,3,Aura Pods,Pods,3,140,4.25,595.0
+2024-11,2024,11,Les Corts,4,Aura Nicotine Pouches,Pouches,1,119,5.0,595.0
+2024-11,2024,11,El Born,1,Aura Starter Kit,Starter,3,45,8.5,382.5
+2024-11,2024,11,El Born,2,Aura Device,Device,3,39,5.0,195.0
+2024-11,2024,11,El Born,3,Aura Pods,Pods,1,141,4.25,599.25
+2024-11,2024,11,El Born,4,Aura Nicotine Pouches,Pouches,0,103,5.0,515.0
+2024-11,2024,11,Nou Barris,1,Aura Starter Kit,Starter,3,44,8.5,374.0
+2024-11,2024,11,Nou Barris,2,Aura Device,Device,0,57,5.0,285.0
+2024-11,2024,11,Nou Barris,3,Aura Pods,Pods,2,123,4.25,522.75
+2024-11,2024,11,Nou Barris,4,Aura Nicotine Pouches,Pouches,3,117,5.0,585.0
+2024-11,2024,11,Sant Martí,1,Aura Starter Kit,Starter,1,48,8.5,408.0
+2024-11,2024,11,Sant Martí,2,Aura Device,Device,2,47,5.0,235.0
+2024-11,2024,11,Sant Martí,3,Aura Pods,Pods,0,100,4.25,425.0
+2024-11,2024,11,Sant Martí,4,Aura Nicotine Pouches,Pouches,3,133,5.0,665.0
+2024-12,2024,12,Barcelona Centro,1,Aura Starter Kit,Starter,0,38,8.5,323.0
+2024-12,2024,12,Barcelona Centro,2,Aura Device,Device,0,62,5.0,310.0
+2024-12,2024,12,Barcelona Centro,3,Aura Pods,Pods,1,237,4.25,1007.25
+2024-12,2024,12,Barcelona Centro,4,Aura Nicotine Pouches,Pouches,0,92,5.0,460.0
+2024-12,2024,12,Eixample,1,Aura Starter Kit,Starter,3,25,8.5,212.5
+2024-12,2024,12,Eixample,2,Aura Device,Device,2,86,5.0,430.0
+2024-12,2024,12,Eixample,3,Aura Pods,Pods,0,165,4.25,701.25
+2024-12,2024,12,Eixample,4,Aura Nicotine Pouches,Pouches,0,148,5.0,740.0
+2024-12,2024,12,Gracia,1,Aura Starter Kit,Starter,1,46,8.5,391.0
+2024-12,2024,12,Gracia,2,Aura Device,Device,3,69,5.0,345.0
+2024-12,2024,12,Gracia,3,Aura Pods,Pods,1,220,4.25,935.0
+2024-12,2024,12,Gracia,4,Aura Nicotine Pouches,Pouches,3,65,5.0,325.0
+2024-12,2024,12,Sants,1,Aura Starter Kit,Starter,3,42,8.5,357.0
+2024-12,2024,12,Sants,2,Aura Device,Device,0,85,5.0,425.0
+2024-12,2024,12,Sants,3,Aura Pods,Pods,2,234,4.25,994.5
+2024-12,2024,12,Sants,4,Aura Nicotine Pouches,Pouches,0,131,5.0,655.0
+2024-12,2024,12,Poblenou,1,Aura Starter Kit,Starter,0,22,8.5,187.0
+2024-12,2024,12,Poblenou,2,Aura Device,Device,0,57,5.0,285.0
+2024-12,2024,12,Poblenou,3,Aura Pods,Pods,0,186,4.25,790.5
+2024-12,2024,12,Poblenou,4,Aura Nicotine Pouches,Pouches,3,72,5.0,360.0
+2024-12,2024,12,Diagonal Mar,1,Aura Starter Kit,Starter,2,40,8.5,340.0
+2024-12,2024,12,Diagonal Mar,2,Aura Device,Device,0,88,5.0,440.0
+2024-12,2024,12,Diagonal Mar,3,Aura Pods,Pods,3,104,4.25,442.0
+2024-12,2024,12,Diagonal Mar,4,Aura Nicotine Pouches,Pouches,3,176,5.0,880.0
+2024-12,2024,12,Les Corts,1,Aura Starter Kit,Starter,3,30,8.5,255.0
+2024-12,2024,12,Les Corts,2,Aura Device,Device,3,51,5.0,255.0
+2024-12,2024,12,Les Corts,3,Aura Pods,Pods,0,199,4.25,845.75
+2024-12,2024,12,Les Corts,4,Aura Nicotine Pouches,Pouches,1,100,5.0,500.0
+2024-12,2024,12,El Born,1,Aura Starter Kit,Starter,2,41,8.5,348.5
+2024-12,2024,12,El Born,2,Aura Device,Device,0,62,5.0,310.0
+2024-12,2024,12,El Born,3,Aura Pods,Pods,2,139,4.25,590.75
+2024-12,2024,12,El Born,4,Aura Nicotine Pouches,Pouches,0,136,5.0,680.0
+2024-12,2024,12,Nou Barris,1,Aura Starter Kit,Starter,0,34,8.5,289.0
+2024-12,2024,12,Nou Barris,2,Aura Device,Device,3,43,5.0,215.0
+2024-12,2024,12,Nou Barris,3,Aura Pods,Pods,0,158,4.25,671.5
+2024-12,2024,12,Nou Barris,4,Aura Nicotine Pouches,Pouches,0,140,5.0,700.0
+2024-12,2024,12,Sant Martí,1,Aura Starter Kit,Starter,1,64,8.5,544.0
+2024-12,2024,12,Sant Martí,2,Aura Device,Device,2,69,5.0,345.0
+2024-12,2024,12,Sant Martí,3,Aura Pods,Pods,3,162,4.25,688.5
+2024-12,2024,12,Sant Martí,4,Aura Nicotine Pouches,Pouches,3,117,5.0,585.0
+2025-01,2025,1,Barcelona Centro,1,Aura Starter Kit,Starter,3,38,8.5,323.0
+2025-01,2025,1,Barcelona Centro,2,Aura Device,Device,0,69,5.0,345.0
+2025-01,2025,1,Barcelona Centro,3,Aura Pods,Pods,1,111,4.25,471.75
+2025-01,2025,1,Barcelona Centro,4,Aura Nicotine Pouches,Pouches,0,117,5.0,585.0
+2025-01,2025,1,Eixample,1,Aura Starter Kit,Starter,3,41,8.5,348.5
+2025-01,2025,1,Eixample,2,Aura Device,Device,0,78,5.0,390.0
+2025-01,2025,1,Eixample,3,Aura Pods,Pods,1,196,4.25,833.0
+2025-01,2025,1,Eixample,4,Aura Nicotine Pouches,Pouches,2,82,5.0,410.0
+2025-01,2025,1,Gracia,1,Aura Starter Kit,Starter,3,53,8.5,450.5
+2025-01,2025,1,Gracia,2,Aura Device,Device,3,41,5.0,205.0
+2025-01,2025,1,Gracia,3,Aura Pods,Pods,1,157,4.25,667.25
+2025-01,2025,1,Gracia,4,Aura Nicotine Pouches,Pouches,2,78,5.0,390.0
+2025-01,2025,1,Sants,1,Aura Starter Kit,Starter,1,37,8.5,314.5
+2025-01,2025,1,Sants,2,Aura Device,Device,3,84,5.0,420.0
+2025-01,2025,1,Sants,3,Aura Pods,Pods,0,161,4.25,684.25
+2025-01,2025,1,Sants,4,Aura Nicotine Pouches,Pouches,1,114,5.0,570.0
+2025-01,2025,1,Poblenou,1,Aura Starter Kit,Starter,0,39,8.5,331.5
+2025-01,2025,1,Poblenou,2,Aura Device,Device,0,37,5.0,185.0
+2025-01,2025,1,Poblenou,3,Aura Pods,Pods,0,128,4.25,544.0
+2025-01,2025,1,Poblenou,4,Aura Nicotine Pouches,Pouches,0,137,5.0,685.0
+2025-01,2025,1,Diagonal Mar,1,Aura Starter Kit,Starter,1,69,8.5,586.5
+2025-01,2025,1,Diagonal Mar,2,Aura Device,Device,0,40,5.0,200.0
+2025-01,2025,1,Diagonal Mar,3,Aura Pods,Pods,3,155,4.25,658.75
+2025-01,2025,1,Diagonal Mar,4,Aura Nicotine Pouches,Pouches,3,102,5.0,510.0
+2025-01,2025,1,Les Corts,1,Aura Starter Kit,Starter,0,46,8.5,391.0
+2025-01,2025,1,Les Corts,2,Aura Device,Device,2,49,5.0,245.0
+2025-01,2025,1,Les Corts,3,Aura Pods,Pods,0,161,4.25,684.25
+2025-01,2025,1,Les Corts,4,Aura Nicotine Pouches,Pouches,0,125,5.0,625.0
+2025-01,2025,1,El Born,1,Aura Starter Kit,Starter,0,29,8.5,246.5
+2025-01,2025,1,El Born,2,Aura Device,Device,0,83,5.0,415.0
+2025-01,2025,1,El Born,3,Aura Pods,Pods,3,196,4.25,833.0
+2025-01,2025,1,El Born,4,Aura Nicotine Pouches,Pouches,2,130,5.0,650.0
+2025-01,2025,1,Nou Barris,1,Aura Starter Kit,Starter,0,34,8.5,289.0
+2025-01,2025,1,Nou Barris,2,Aura Device,Device,3,52,5.0,260.0
+2025-01,2025,1,Nou Barris,3,Aura Pods,Pods,2,149,4.25,633.25
+2025-01,2025,1,Nou Barris,4,Aura Nicotine Pouches,Pouches,0,109,5.0,545.0
+2025-01,2025,1,Sant Martí,1,Aura Starter Kit,Starter,0,42,8.5,357.0
+2025-01,2025,1,Sant Martí,2,Aura Device,Device,0,65,5.0,325.0
+2025-01,2025,1,Sant Martí,3,Aura Pods,Pods,0,86,4.25,365.5
+2025-01,2025,1,Sant Martí,4,Aura Nicotine Pouches,Pouches,1,78,5.0,390.0
+2025-02,2025,2,Barcelona Centro,1,Aura Starter Kit,Starter,1,55,8.5,467.5
+2025-02,2025,2,Barcelona Centro,2,Aura Device,Device,3,63,5.0,315.0
+2025-02,2025,2,Barcelona Centro,3,Aura Pods,Pods,0,192,4.25,816.0
+2025-02,2025,2,Barcelona Centro,4,Aura Nicotine Pouches,Pouches,0,124,5.0,620.0
+2025-02,2025,2,Eixample,1,Aura Starter Kit,Starter,0,46,8.5,391.0
+2025-02,2025,2,Eixample,2,Aura Device,Device,0,59,5.0,295.0
+2025-02,2025,2,Eixample,3,Aura Pods,Pods,3,114,4.25,484.5
+2025-02,2025,2,Eixample,4,Aura Nicotine Pouches,Pouches,2,126,5.0,630.0
+2025-02,2025,2,Gracia,1,Aura Starter Kit,Starter,1,49,8.5,416.5
+2025-02,2025,2,Gracia,2,Aura Device,Device,0,51,5.0,255.0
+2025-02,2025,2,Gracia,3,Aura Pods,Pods,0,188,4.25,799.0
+2025-02,2025,2,Gracia,4,Aura Nicotine Pouches,Pouches,3,116,5.0,580.0
+2025-02,2025,2,Sants,1,Aura Starter Kit,Starter,0,54,8.5,459.0
+2025-02,2025,2,Sants,2,Aura Device,Device,3,64,5.0,320.0
+2025-02,2025,2,Sants,3,Aura Pods,Pods,2,150,4.25,637.5
+2025-02,2025,2,Sants,4,Aura Nicotine Pouches,Pouches,0,68,5.0,340.0
+2025-02,2025,2,Poblenou,1,Aura Starter Kit,Starter,0,31,8.5,263.5
+2025-02,2025,2,Poblenou,2,Aura Device,Device,0,85,5.0,425.0
+2025-02,2025,2,Poblenou,3,Aura Pods,Pods,1,117,4.25,497.25
+2025-02,2025,2,Poblenou,4,Aura Nicotine Pouches,Pouches,0,104,5.0,520.0
+2025-02,2025,2,Diagonal Mar,1,Aura Starter Kit,Starter,2,34,8.5,289.0
+2025-02,2025,2,Diagonal Mar,2,Aura Device,Device,3,82,5.0,410.0
+2025-02,2025,2,Diagonal Mar,3,Aura Pods,Pods,3,83,4.25,352.75
+2025-02,2025,2,Diagonal Mar,4,Aura Nicotine Pouches,Pouches,1,94,5.0,470.0
+2025-02,2025,2,Les Corts,1,Aura Starter Kit,Starter,0,57,8.5,484.5
+2025-02,2025,2,Les Corts,2,Aura Device,Device,0,84,5.0,420.0
+2025-02,2025,2,Les Corts,3,Aura Pods,Pods,1,159,4.25,675.75
+2025-02,2025,2,Les Corts,4,Aura Nicotine Pouches,Pouches,0,90,5.0,450.0
+2025-02,2025,2,El Born,1,Aura Starter Kit,Starter,0,38,8.5,323.0
+2025-02,2025,2,El Born,2,Aura Device,Device,2,32,5.0,160.0
+2025-02,2025,2,El Born,3,Aura Pods,Pods,3,183,4.25,777.75
+2025-02,2025,2,El Born,4,Aura Nicotine Pouches,Pouches,2,84,5.0,420.0
+2025-02,2025,2,Nou Barris,1,Aura Starter Kit,Starter,1,27,8.5,229.5
+2025-02,2025,2,Nou Barris,2,Aura Device,Device,1,89,5.0,445.0
+2025-02,2025,2,Nou Barris,3,Aura Pods,Pods,0,181,4.25,769.25
+2025-02,2025,2,Nou Barris,4,Aura Nicotine Pouches,Pouches,1,65,5.0,325.0
+2025-02,2025,2,Sant Martí,1,Aura Starter Kit,Starter,0,50,8.5,425.0
+2025-02,2025,2,Sant Martí,2,Aura Device,Device,3,84,5.0,420.0
+2025-02,2025,2,Sant Martí,3,Aura Pods,Pods,0,184,4.25,782.0
+2025-02,2025,2,Sant Martí,4,Aura Nicotine Pouches,Pouches,0,74,5.0,370.0
+2025-03,2025,3,Barcelona Centro,1,Aura Starter Kit,Starter,3,29,8.5,246.5
+2025-03,2025,3,Barcelona Centro,2,Aura Device,Device,2,79,5.0,395.0
+2025-03,2025,3,Barcelona Centro,3,Aura Pods,Pods,0,142,4.25,603.5
+2025-03,2025,3,Barcelona Centro,4,Aura Nicotine Pouches,Pouches,0,80,5.0,400.0
+2025-03,2025,3,Eixample,1,Aura Starter Kit,Starter,1,37,8.5,314.5
+2025-03,2025,3,Eixample,2,Aura Device,Device,0,47,5.0,235.0
+2025-03,2025,3,Eixample,3,Aura Pods,Pods,0,120,4.25,510.0
+2025-03,2025,3,Eixample,4,Aura Nicotine Pouches,Pouches,0,114,5.0,570.0
+2025-03,2025,3,Gracia,1,Aura Starter Kit,Starter,3,37,8.5,314.5
+2025-03,2025,3,Gracia,2,Aura Device,Device,2,41,5.0,205.0
+2025-03,2025,3,Gracia,3,Aura Pods,Pods,2,180,4.25,765.0
+2025-03,2025,3,Gracia,4,Aura Nicotine Pouches,Pouches,3,87,5.0,435.0
+2025-03,2025,3,Sants,1,Aura Starter Kit,Starter,2,23,8.5,195.5
+2025-03,2025,3,Sants,2,Aura Device,Device,3,41,5.0,205.0
+2025-03,2025,3,Sants,3,Aura Pods,Pods,1,144,4.25,612.0
+2025-03,2025,3,Sants,4,Aura Nicotine Pouches,Pouches,2,120,5.0,600.0
+2025-03,2025,3,Poblenou,1,Aura Starter Kit,Starter,0,35,8.5,297.5
+2025-03,2025,3,Poblenou,2,Aura Device,Device,2,65,5.0,325.0
+2025-03,2025,3,Poblenou,3,Aura Pods,Pods,0,86,4.25,365.5
+2025-03,2025,3,Poblenou,4,Aura Nicotine Pouches,Pouches,2,77,5.0,385.0
+2025-03,2025,3,Diagonal Mar,1,Aura Starter Kit,Starter,2,54,8.5,459.0
+2025-03,2025,3,Diagonal Mar,2,Aura Device,Device,3,76,5.0,380.0
+2025-03,2025,3,Diagonal Mar,3,Aura Pods,Pods,2,214,4.25,909.5
+2025-03,2025,3,Diagonal Mar,4,Aura Nicotine Pouches,Pouches,3,82,5.0,410.0
+2025-03,2025,3,Les Corts,1,Aura Starter Kit,Starter,2,45,8.5,382.5
+2025-03,2025,3,Les Corts,2,Aura Device,Device,0,69,5.0,345.0
+2025-03,2025,3,Les Corts,3,Aura Pods,Pods,3,126,4.25,535.5
+2025-03,2025,3,Les Corts,4,Aura Nicotine Pouches,Pouches,2,74,5.0,370.0
+2025-03,2025,3,El Born,1,Aura Starter Kit,Starter,1,42,8.5,357.0
+2025-03,2025,3,El Born,2,Aura Device,Device,0,80,5.0,400.0
+2025-03,2025,3,El Born,3,Aura Pods,Pods,0,151,4.25,641.75
+2025-03,2025,3,El Born,4,Aura Nicotine Pouches,Pouches,0,78,5.0,390.0
+2025-03,2025,3,Nou Barris,1,Aura Starter Kit,Starter,1,54,8.5,459.0
+2025-03,2025,3,Nou Barris,2,Aura Device,Device,1,49,5.0,245.0
+2025-03,2025,3,Nou Barris,3,Aura Pods,Pods,2,179,4.25,760.75
+2025-03,2025,3,Nou Barris,4,Aura Nicotine Pouches,Pouches,0,94,5.0,470.0
+2025-03,2025,3,Sant Martí,1,Aura Starter Kit,Starter,2,50,8.5,425.0
+2025-03,2025,3,Sant Martí,2,Aura Device,Device,2,53,5.0,265.0
+2025-03,2025,3,Sant Martí,3,Aura Pods,Pods,0,105,4.25,446.25
+2025-03,2025,3,Sant Martí,4,Aura Nicotine Pouches,Pouches,1,103,5.0,515.0
+2025-04,2025,4,Barcelona Centro,1,Aura Starter Kit,Starter,3,40,8.5,340.0
+2025-04,2025,4,Barcelona Centro,2,Aura Device,Device,1,43,5.0,215.0
+2025-04,2025,4,Barcelona Centro,3,Aura Pods,Pods,1,206,4.25,875.5
+2025-04,2025,4,Barcelona Centro,4,Aura Nicotine Pouches,Pouches,2,124,5.0,620.0
+2025-04,2025,4,Eixample,1,Aura Starter Kit,Starter,2,35,8.5,297.5
+2025-04,2025,4,Eixample,2,Aura Device,Device,0,86,5.0,430.0
+2025-04,2025,4,Eixample,3,Aura Pods,Pods,2,235,4.25,998.75
+2025-04,2025,4,Eixample,4,Aura Nicotine Pouches,Pouches,0,108,5.0,540.0
+2025-04,2025,4,Gracia,1,Aura Starter Kit,Starter,2,53,8.5,450.5
+2025-04,2025,4,Gracia,2,Aura Device,Device,0,76,5.0,380.0
+2025-04,2025,4,Gracia,3,Aura Pods,Pods,2,250,4.25,1062.5
+2025-04,2025,4,Gracia,4,Aura Nicotine Pouches,Pouches,3,176,5.0,880.0
+2025-04,2025,4,Sants,1,Aura Starter Kit,Starter,3,59,8.5,501.5
+2025-04,2025,4,Sants,2,Aura Device,Device,1,86,5.0,430.0
+2025-04,2025,4,Sants,3,Aura Pods,Pods,0,133,4.25,565.25
+2025-04,2025,4,Sants,4,Aura Nicotine Pouches,Pouches,1,142,5.0,710.0
+2025-04,2025,4,Poblenou,1,Aura Starter Kit,Starter,3,54,8.5,459.0
+2025-04,2025,4,Poblenou,2,Aura Device,Device,0,81,5.0,405.0
+2025-04,2025,4,Poblenou,3,Aura Pods,Pods,0,80,4.25,340.0
+2025-04,2025,4,Poblenou,4,Aura Nicotine Pouches,Pouches,2,124,5.0,620.0
+2025-04,2025,4,Diagonal Mar,1,Aura Starter Kit,Starter,1,57,8.5,484.5
+2025-04,2025,4,Diagonal Mar,2,Aura Device,Device,2,41,5.0,205.0
+2025-04,2025,4,Diagonal Mar,3,Aura Pods,Pods,3,150,4.25,637.5
+2025-04,2025,4,Diagonal Mar,4,Aura Nicotine Pouches,Pouches,1,133,5.0,665.0
+2025-04,2025,4,Les Corts,1,Aura Starter Kit,Starter,1,45,8.5,382.5
+2025-04,2025,4,Les Corts,2,Aura Device,Device,3,87,5.0,435.0
+2025-04,2025,4,Les Corts,3,Aura Pods,Pods,0,119,4.25,505.75
+2025-04,2025,4,Les Corts,4,Aura Nicotine Pouches,Pouches,0,53,5.0,265.0
+2025-04,2025,4,El Born,1,Aura Starter Kit,Starter,3,42,8.5,357.0
+2025-04,2025,4,El Born,2,Aura Device,Device,0,86,5.0,430.0
+2025-04,2025,4,El Born,3,Aura Pods,Pods,0,182,4.25,773.5
+2025-04,2025,4,El Born,4,Aura Nicotine Pouches,Pouches,0,96,5.0,480.0
+2025-04,2025,4,Nou Barris,1,Aura Starter Kit,Starter,2,24,8.5,204.0
+2025-04,2025,4,Nou Barris,2,Aura Device,Device,3,77,5.0,385.0
+2025-04,2025,4,Nou Barris,3,Aura Pods,Pods,1,236,4.25,1003.0
+2025-04,2025,4,Nou Barris,4,Aura Nicotine Pouches,Pouches,2,121,5.0,605.0
+2025-04,2025,4,Sant Martí,1,Aura Starter Kit,Starter,2,53,8.5,450.5
+2025-04,2025,4,Sant Martí,2,Aura Device,Device,0,86,5.0,430.0
+2025-04,2025,4,Sant Martí,3,Aura Pods,Pods,0,180,4.25,765.0
+2025-04,2025,4,Sant Martí,4,Aura Nicotine Pouches,Pouches,0,137,5.0,685.0
+2025-05,2025,5,Barcelona Centro,1,Aura Starter Kit,Starter,0,42,8.5,357.0
+2025-05,2025,5,Barcelona Centro,2,Aura Device,Device,0,70,5.0,350.0
+2025-05,2025,5,Barcelona Centro,3,Aura Pods,Pods,0,82,4.25,348.5
+2025-05,2025,5,Barcelona Centro,4,Aura Nicotine Pouches,Pouches,1,113,5.0,565.0
+2025-05,2025,5,Eixample,1,Aura Starter Kit,Starter,0,23,8.5,195.5
+2025-05,2025,5,Eixample,2,Aura Device,Device,2,87,5.0,435.0
+2025-05,2025,5,Eixample,3,Aura Pods,Pods,3,108,4.25,459.0
+2025-05,2025,5,Eixample,4,Aura Nicotine Pouches,Pouches,0,114,5.0,570.0
+2025-05,2025,5,Gracia,1,Aura Starter Kit,Starter,3,54,8.5,459.0
+2025-05,2025,5,Gracia,2,Aura Device,Device,0,60,5.0,300.0
+2025-05,2025,5,Gracia,3,Aura Pods,Pods,0,180,4.25,765.0
+2025-05,2025,5,Gracia,4,Aura Nicotine Pouches,Pouches,2,132,5.0,660.0
+2025-05,2025,5,Sants,1,Aura Starter Kit,Starter,0,31,8.5,263.5
+2025-05,2025,5,Sants,2,Aura Device,Device,1,62,5.0,310.0
+2025-05,2025,5,Sants,3,Aura Pods,Pods,0,112,4.25,476.0
+2025-05,2025,5,Sants,4,Aura Nicotine Pouches,Pouches,0,115,5.0,575.0
+2025-05,2025,5,Poblenou,1,Aura Starter Kit,Starter,2,26,8.5,221.0
+2025-05,2025,5,Poblenou,2,Aura Device,Device,3,85,5.0,425.0
+2025-05,2025,5,Poblenou,3,Aura Pods,Pods,0,87,4.25,369.75
+2025-05,2025,5,Poblenou,4,Aura Nicotine Pouches,Pouches,3,147,5.0,735.0
+2025-05,2025,5,Diagonal Mar,1,Aura Starter Kit,Starter,1,55,8.5,467.5
+2025-05,2025,5,Diagonal Mar,2,Aura Device,Device,0,64,5.0,320.0
+2025-05,2025,5,Diagonal Mar,3,Aura Pods,Pods,1,146,4.25,620.5
+2025-05,2025,5,Diagonal Mar,4,Aura Nicotine Pouches,Pouches,0,90,5.0,450.0
+2025-05,2025,5,Les Corts,1,Aura Starter Kit,Starter,2,49,8.5,416.5
+2025-05,2025,5,Les Corts,2,Aura Device,Device,2,38,5.0,190.0
+2025-05,2025,5,Les Corts,3,Aura Pods,Pods,3,81,4.25,344.25
+2025-05,2025,5,Les Corts,4,Aura Nicotine Pouches,Pouches,0,128,5.0,640.0
+2025-05,2025,5,El Born,1,Aura Starter Kit,Starter,2,55,8.5,467.5
+2025-05,2025,5,El Born,2,Aura Device,Device,3,33,5.0,165.0
+2025-05,2025,5,El Born,3,Aura Pods,Pods,3,152,4.25,646.0
+2025-05,2025,5,El Born,4,Aura Nicotine Pouches,Pouches,1,66,5.0,330.0
+2025-05,2025,5,Nou Barris,1,Aura Starter Kit,Starter,3,40,8.5,340.0
+2025-05,2025,5,Nou Barris,2,Aura Device,Device,1,38,5.0,190.0
+2025-05,2025,5,Nou Barris,3,Aura Pods,Pods,0,120,4.25,510.0
+2025-05,2025,5,Nou Barris,4,Aura Nicotine Pouches,Pouches,0,72,5.0,360.0
+2025-05,2025,5,Sant Martí,1,Aura Starter Kit,Starter,0,24,8.5,204.0
+2025-05,2025,5,Sant Martí,2,Aura Device,Device,1,87,5.0,435.0
+2025-05,2025,5,Sant Martí,3,Aura Pods,Pods,3,161,4.25,684.25
+2025-05,2025,5,Sant Martí,4,Aura Nicotine Pouches,Pouches,0,95,5.0,475.0
+2025-06,2025,6,Barcelona Centro,1,Aura Starter Kit,Starter,0,27,8.5,229.5
+2025-06,2025,6,Barcelona Centro,2,Aura Device,Device,0,54,5.0,270.0
+2025-06,2025,6,Barcelona Centro,3,Aura Pods,Pods,2,209,4.25,888.25
+2025-06,2025,6,Barcelona Centro,4,Aura Nicotine Pouches,Pouches,3,136,5.0,680.0
+2025-06,2025,6,Eixample,1,Aura Starter Kit,Starter,0,34,8.5,289.0
+2025-06,2025,6,Eixample,2,Aura Device,Device,0,86,5.0,430.0
+2025-06,2025,6,Eixample,3,Aura Pods,Pods,3,167,4.25,709.75
+2025-06,2025,6,Eixample,4,Aura Nicotine Pouches,Pouches,3,62,5.0,310.0
+2025-06,2025,6,Gracia,1,Aura Starter Kit,Starter,2,47,8.5,399.5
+2025-06,2025,6,Gracia,2,Aura Device,Device,3,64,5.0,320.0
+2025-06,2025,6,Gracia,3,Aura Pods,Pods,1,222,4.25,943.5
+2025-06,2025,6,Gracia,4,Aura Nicotine Pouches,Pouches,3,92,5.0,460.0
+2025-06,2025,6,Sants,1,Aura Starter Kit,Starter,0,58,8.5,493.0
+2025-06,2025,6,Sants,2,Aura Device,Device,1,74,5.0,370.0
+2025-06,2025,6,Sants,3,Aura Pods,Pods,0,160,4.25,680.0
+2025-06,2025,6,Sants,4,Aura Nicotine Pouches,Pouches,0,122,5.0,610.0
+2025-06,2025,6,Poblenou,1,Aura Starter Kit,Starter,1,50,8.5,425.0
+2025-06,2025,6,Poblenou,2,Aura Device,Device,1,73,5.0,365.0
+2025-06,2025,6,Poblenou,3,Aura Pods,Pods,2,241,4.25,1024.25
+2025-06,2025,6,Poblenou,4,Aura Nicotine Pouches,Pouches,0,85,5.0,425.0
+2025-06,2025,6,Diagonal Mar,1,Aura Starter Kit,Starter,0,38,8.5,323.0
+2025-06,2025,6,Diagonal Mar,2,Aura Device,Device,1,38,5.0,190.0
+2025-06,2025,6,Diagonal Mar,3,Aura Pods,Pods,2,163,4.25,692.75
+2025-06,2025,6,Diagonal Mar,4,Aura Nicotine Pouches,Pouches,2,50,5.0,250.0
+2025-06,2025,6,Les Corts,1,Aura Starter Kit,Starter,1,57,8.5,484.5
+2025-06,2025,6,Les Corts,2,Aura Device,Device,3,55,5.0,275.0
+2025-06,2025,6,Les Corts,3,Aura Pods,Pods,2,249,4.25,1058.25
+2025-06,2025,6,Les Corts,4,Aura Nicotine Pouches,Pouches,2,78,5.0,390.0
+2025-06,2025,6,El Born,1,Aura Starter Kit,Starter,2,47,8.5,399.5
+2025-06,2025,6,El Born,2,Aura Device,Device,1,70,5.0,350.0
+2025-06,2025,6,El Born,3,Aura Pods,Pods,3,162,4.25,688.5
+2025-06,2025,6,El Born,4,Aura Nicotine Pouches,Pouches,0,95,5.0,475.0
+2025-06,2025,6,Nou Barris,1,Aura Starter Kit,Starter,0,51,8.5,433.5
+2025-06,2025,6,Nou Barris,2,Aura Device,Device,0,44,5.0,220.0
+2025-06,2025,6,Nou Barris,3,Aura Pods,Pods,3,124,4.25,527.0
+2025-06,2025,6,Nou Barris,4,Aura Nicotine Pouches,Pouches,0,116,5.0,580.0
+2025-06,2025,6,Sant Martí,1,Aura Starter Kit,Starter,1,27,8.5,229.5
+2025-06,2025,6,Sant Martí,2,Aura Device,Device,0,56,5.0,280.0
+2025-06,2025,6,Sant Martí,3,Aura Pods,Pods,3,110,4.25,467.5
+2025-06,2025,6,Sant Martí,4,Aura Nicotine Pouches,Pouches,1,57,5.0,285.0
+2025-07,2025,7,Barcelona Centro,1,Aura Starter Kit,Starter,1,61,8.5,518.5
+2025-07,2025,7,Barcelona Centro,2,Aura Device,Device,0,58,5.0,290.0
+2025-07,2025,7,Barcelona Centro,3,Aura Pods,Pods,3,137,4.25,582.25
+2025-07,2025,7,Barcelona Centro,4,Aura Nicotine Pouches,Pouches,3,106,5.0,530.0
+2025-07,2025,7,Eixample,1,Aura Starter Kit,Starter,2,32,8.5,272.0
+2025-07,2025,7,Eixample,2,Aura Device,Device,0,74,5.0,370.0
+2025-07,2025,7,Eixample,3,Aura Pods,Pods,1,189,4.25,803.25
+2025-07,2025,7,Eixample,4,Aura Nicotine Pouches,Pouches,2,72,5.0,360.0
+2025-07,2025,7,Gracia,1,Aura Starter Kit,Starter,3,22,8.5,187.0
+2025-07,2025,7,Gracia,2,Aura Device,Device,1,57,5.0,285.0
+2025-07,2025,7,Gracia,3,Aura Pods,Pods,2,198,4.25,841.5
+2025-07,2025,7,Gracia,4,Aura Nicotine Pouches,Pouches,2,119,5.0,595.0
+2025-07,2025,7,Sants,1,Aura Starter Kit,Starter,0,27,8.5,229.5
+2025-07,2025,7,Sants,2,Aura Device,Device,3,64,5.0,320.0
+2025-07,2025,7,Sants,3,Aura Pods,Pods,3,168,4.25,714.0
+2025-07,2025,7,Sants,4,Aura Nicotine Pouches,Pouches,3,157,5.0,785.0
+2025-07,2025,7,Poblenou,1,Aura Starter Kit,Starter,0,57,8.5,484.5
+2025-07,2025,7,Poblenou,2,Aura Device,Device,2,61,5.0,305.0
+2025-07,2025,7,Poblenou,3,Aura Pods,Pods,1,114,4.25,484.5
+2025-07,2025,7,Poblenou,4,Aura Nicotine Pouches,Pouches,1,103,5.0,515.0
+2025-07,2025,7,Diagonal Mar,1,Aura Starter Kit,Starter,0,57,8.5,484.5
+2025-07,2025,7,Diagonal Mar,2,Aura Device,Device,3,84,5.0,420.0
+2025-07,2025,7,Diagonal Mar,3,Aura Pods,Pods,1,196,4.25,833.0
+2025-07,2025,7,Diagonal Mar,4,Aura Nicotine Pouches,Pouches,1,68,5.0,340.0
+2025-07,2025,7,Les Corts,1,Aura Starter Kit,Starter,3,38,8.5,323.0
+2025-07,2025,7,Les Corts,2,Aura Device,Device,1,88,5.0,440.0
+2025-07,2025,7,Les Corts,3,Aura Pods,Pods,2,157,4.25,667.25
+2025-07,2025,7,Les Corts,4,Aura Nicotine Pouches,Pouches,0,67,5.0,335.0
+2025-07,2025,7,El Born,1,Aura Starter Kit,Starter,0,24,8.5,204.0
+2025-07,2025,7,El Born,2,Aura Device,Device,0,51,5.0,255.0
+2025-07,2025,7,El Born,3,Aura Pods,Pods,0,155,4.25,658.75
+2025-07,2025,7,El Born,4,Aura Nicotine Pouches,Pouches,0,99,5.0,495.0
+2025-07,2025,7,Nou Barris,1,Aura Starter Kit,Starter,1,37,8.5,314.5
+2025-07,2025,7,Nou Barris,2,Aura Device,Device,1,55,5.0,275.0
+2025-07,2025,7,Nou Barris,3,Aura Pods,Pods,0,115,4.25,488.75
+2025-07,2025,7,Nou Barris,4,Aura Nicotine Pouches,Pouches,0,69,5.0,345.0
+2025-07,2025,7,Sant Martí,1,Aura Starter Kit,Starter,2,35,8.5,297.5
+2025-07,2025,7,Sant Martí,2,Aura Device,Device,0,85,5.0,425.0
+2025-07,2025,7,Sant Martí,3,Aura Pods,Pods,0,114,4.25,484.5
+2025-07,2025,7,Sant Martí,4,Aura Nicotine Pouches,Pouches,1,106,5.0,530.0
+2025-08,2025,8,Barcelona Centro,1,Aura Starter Kit,Starter,1,69,8.5,586.5
+2025-08,2025,8,Barcelona Centro,2,Aura Device,Device,0,58,5.0,290.0
+2025-08,2025,8,Barcelona Centro,3,Aura Pods,Pods,1,135,4.25,573.75
+2025-08,2025,8,Barcelona Centro,4,Aura Nicotine Pouches,Pouches,0,64,5.0,320.0
+2025-08,2025,8,Eixample,1,Aura Starter Kit,Starter,0,59,8.5,501.5
+2025-08,2025,8,Eixample,2,Aura Device,Device,0,58,5.0,290.0
+2025-08,2025,8,Eixample,3,Aura Pods,Pods,0,92,4.25,391.0
+2025-08,2025,8,Eixample,4,Aura Nicotine Pouches,Pouches,0,113,5.0,565.0
+2025-08,2025,8,Gracia,1,Aura Starter Kit,Starter,0,50,8.5,425.0
+2025-08,2025,8,Gracia,2,Aura Device,Device,2,67,5.0,335.0
+2025-08,2025,8,Gracia,3,Aura Pods,Pods,1,166,4.25,705.5
+2025-08,2025,8,Gracia,4,Aura Nicotine Pouches,Pouches,2,106,5.0,530.0
+2025-08,2025,8,Sants,1,Aura Starter Kit,Starter,1,52,8.5,442.0
+2025-08,2025,8,Sants,2,Aura Device,Device,0,44,5.0,220.0
+2025-08,2025,8,Sants,3,Aura Pods,Pods,0,119,4.25,505.75
+2025-08,2025,8,Sants,4,Aura Nicotine Pouches,Pouches,1,112,5.0,560.0
+2025-08,2025,8,Poblenou,1,Aura Starter Kit,Starter,0,37,8.5,314.5
+2025-08,2025,8,Poblenou,2,Aura Device,Device,0,69,5.0,345.0
+2025-08,2025,8,Poblenou,3,Aura Pods,Pods,1,166,4.25,705.5
+2025-08,2025,8,Poblenou,4,Aura Nicotine Pouches,Pouches,2,74,5.0,370.0
+2025-08,2025,8,Diagonal Mar,1,Aura Starter Kit,Starter,3,49,8.5,416.5
+2025-08,2025,8,Diagonal Mar,2,Aura Device,Device,3,61,5.0,305.0
+2025-08,2025,8,Diagonal Mar,3,Aura Pods,Pods,0,157,4.25,667.25
+2025-08,2025,8,Diagonal Mar,4,Aura Nicotine Pouches,Pouches,3,135,5.0,675.0
+2025-08,2025,8,Les Corts,1,Aura Starter Kit,Starter,0,50,8.5,425.0
+2025-08,2025,8,Les Corts,2,Aura Device,Device,2,42,5.0,210.0
+2025-08,2025,8,Les Corts,3,Aura Pods,Pods,0,160,4.25,680.0
+2025-08,2025,8,Les Corts,4,Aura Nicotine Pouches,Pouches,0,107,5.0,535.0
+2025-08,2025,8,El Born,1,Aura Starter Kit,Starter,2,45,8.5,382.5
+2025-08,2025,8,El Born,2,Aura Device,Device,2,45,5.0,225.0
+2025-08,2025,8,El Born,3,Aura Pods,Pods,2,119,4.25,505.75
+2025-08,2025,8,El Born,4,Aura Nicotine Pouches,Pouches,2,134,5.0,670.0
+2025-08,2025,8,Nou Barris,1,Aura Starter Kit,Starter,3,34,8.5,289.0
+2025-08,2025,8,Nou Barris,2,Aura Device,Device,0,81,5.0,405.0
+2025-08,2025,8,Nou Barris,3,Aura Pods,Pods,0,123,4.25,522.75
+2025-08,2025,8,Nou Barris,4,Aura Nicotine Pouches,Pouches,2,146,5.0,730.0
+2025-08,2025,8,Sant Martí,1,Aura Starter Kit,Starter,0,31,8.5,263.5
+2025-08,2025,8,Sant Martí,2,Aura Device,Device,2,72,5.0,360.0
+2025-08,2025,8,Sant Martí,3,Aura Pods,Pods,3,119,4.25,505.75
+2025-08,2025,8,Sant Martí,4,Aura Nicotine Pouches,Pouches,1,113,5.0,565.0
+2025-09,2025,9,Barcelona Centro,1,Aura Starter Kit,Starter,0,43,8.5,365.5
+2025-09,2025,9,Barcelona Centro,2,Aura Device,Device,1,57,5.0,285.0
+2025-09,2025,9,Barcelona Centro,3,Aura Pods,Pods,3,117,4.25,497.25
+2025-09,2025,9,Barcelona Centro,4,Aura Nicotine Pouches,Pouches,0,92,5.0,460.0
+2025-09,2025,9,Eixample,1,Aura Starter Kit,Starter,2,55,8.5,467.5
+2025-09,2025,9,Eixample,2,Aura Device,Device,0,69,5.0,345.0
+2025-09,2025,9,Eixample,3,Aura Pods,Pods,3,176,4.25,748.0
+2025-09,2025,9,Eixample,4,Aura Nicotine Pouches,Pouches,0,76,5.0,380.0
+2025-09,2025,9,Gracia,1,Aura Starter Kit,Starter,1,39,8.5,331.5
+2025-09,2025,9,Gracia,2,Aura Device,Device,2,83,5.0,415.0
+2025-09,2025,9,Gracia,3,Aura Pods,Pods,0,146,4.25,620.5
+2025-09,2025,9,Gracia,4,Aura Nicotine Pouches,Pouches,0,84,5.0,420.0
+2025-09,2025,9,Sants,1,Aura Starter Kit,Starter,0,50,8.5,425.0
+2025-09,2025,9,Sants,2,Aura Device,Device,0,77,5.0,385.0
+2025-09,2025,9,Sants,3,Aura Pods,Pods,3,168,4.25,714.0
+2025-09,2025,9,Sants,4,Aura Nicotine Pouches,Pouches,2,87,5.0,435.0
+2025-09,2025,9,Poblenou,1,Aura Starter Kit,Starter,0,44,8.5,374.0
+2025-09,2025,9,Poblenou,2,Aura Device,Device,0,77,5.0,385.0
+2025-09,2025,9,Poblenou,3,Aura Pods,Pods,1,213,4.25,905.25
+2025-09,2025,9,Poblenou,4,Aura Nicotine Pouches,Pouches,3,172,5.0,860.0
+2025-09,2025,9,Diagonal Mar,1,Aura Starter Kit,Starter,0,56,8.5,476.0
+2025-09,2025,9,Diagonal Mar,2,Aura Device,Device,2,77,5.0,385.0
+2025-09,2025,9,Diagonal Mar,3,Aura Pods,Pods,0,187,4.25,794.75
+2025-09,2025,9,Diagonal Mar,4,Aura Nicotine Pouches,Pouches,0,110,5.0,550.0
+2025-09,2025,9,Les Corts,1,Aura Starter Kit,Starter,0,40,8.5,340.0
+2025-09,2025,9,Les Corts,2,Aura Device,Device,1,30,5.0,150.0
+2025-09,2025,9,Les Corts,3,Aura Pods,Pods,2,184,4.25,782.0
+2025-09,2025,9,Les Corts,4,Aura Nicotine Pouches,Pouches,0,148,5.0,740.0
+2025-09,2025,9,El Born,1,Aura Starter Kit,Starter,0,45,8.5,382.5
+2025-09,2025,9,El Born,2,Aura Device,Device,0,64,5.0,320.0
+2025-09,2025,9,El Born,3,Aura Pods,Pods,2,137,4.25,582.25
+2025-09,2025,9,El Born,4,Aura Nicotine Pouches,Pouches,3,147,5.0,735.0
+2025-09,2025,9,Nou Barris,1,Aura Starter Kit,Starter,0,24,8.5,204.0
+2025-09,2025,9,Nou Barris,2,Aura Device,Device,1,33,5.0,165.0
+2025-09,2025,9,Nou Barris,3,Aura Pods,Pods,1,237,4.25,1007.25
+2025-09,2025,9,Nou Barris,4,Aura Nicotine Pouches,Pouches,0,84,5.0,420.0
+2025-09,2025,9,Sant Martí,1,Aura Starter Kit,Starter,0,59,8.5,501.5
+2025-09,2025,9,Sant Martí,2,Aura Device,Device,0,64,5.0,320.0
+2025-09,2025,9,Sant Martí,3,Aura Pods,Pods,0,191,4.25,811.75
+2025-09,2025,9,Sant Martí,4,Aura Nicotine Pouches,Pouches,0,65,5.0,325.0
+2025-10,2025,10,Barcelona Centro,1,Aura Starter Kit,Starter,0,50,8.5,425.0
+2025-10,2025,10,Barcelona Centro,2,Aura Device,Device,0,68,5.0,340.0
+2025-10,2025,10,Barcelona Centro,3,Aura Pods,Pods,0,185,4.25,786.25
+2025-10,2025,10,Barcelona Centro,4,Aura Nicotine Pouches,Pouches,2,118,5.0,590.0
+2025-10,2025,10,Eixample,1,Aura Starter Kit,Starter,3,42,8.5,357.0
+2025-10,2025,10,Eixample,2,Aura Device,Device,2,33,5.0,165.0
+2025-10,2025,10,Eixample,3,Aura Pods,Pods,0,175,4.25,743.75
+2025-10,2025,10,Eixample,4,Aura Nicotine Pouches,Pouches,0,112,5.0,560.0
+2025-10,2025,10,Gracia,1,Aura Starter Kit,Starter,0,23,8.5,195.5
+2025-10,2025,10,Gracia,2,Aura Device,Device,3,64,5.0,320.0
+2025-10,2025,10,Gracia,3,Aura Pods,Pods,0,185,4.25,786.25
+2025-10,2025,10,Gracia,4,Aura Nicotine Pouches,Pouches,0,122,5.0,610.0
+2025-10,2025,10,Sants,1,Aura Starter Kit,Starter,1,50,8.5,425.0
+2025-10,2025,10,Sants,2,Aura Device,Device,2,54,5.0,270.0
+2025-10,2025,10,Sants,3,Aura Pods,Pods,0,120,4.25,510.0
+2025-10,2025,10,Sants,4,Aura Nicotine Pouches,Pouches,0,124,5.0,620.0
+2025-10,2025,10,Poblenou,1,Aura Starter Kit,Starter,3,21,8.5,178.5
+2025-10,2025,10,Poblenou,2,Aura Device,Device,0,78,5.0,390.0
+2025-10,2025,10,Poblenou,3,Aura Pods,Pods,2,176,4.25,748.0
+2025-10,2025,10,Poblenou,4,Aura Nicotine Pouches,Pouches,1,126,5.0,630.0
+2025-10,2025,10,Diagonal Mar,1,Aura Starter Kit,Starter,0,34,8.5,289.0
+2025-10,2025,10,Diagonal Mar,2,Aura Device,Device,0,69,5.0,345.0
+2025-10,2025,10,Diagonal Mar,3,Aura Pods,Pods,0,160,4.25,680.0
+2025-10,2025,10,Diagonal Mar,4,Aura Nicotine Pouches,Pouches,0,77,5.0,385.0
+2025-10,2025,10,Les Corts,1,Aura Starter Kit,Starter,2,33,8.5,280.5
+2025-10,2025,10,Les Corts,2,Aura Device,Device,1,32,5.0,160.0
+2025-10,2025,10,Les Corts,3,Aura Pods,Pods,3,100,4.25,425.0
+2025-10,2025,10,Les Corts,4,Aura Nicotine Pouches,Pouches,0,119,5.0,595.0
+2025-10,2025,10,El Born,1,Aura Starter Kit,Starter,1,66,8.5,561.0
+2025-10,2025,10,El Born,2,Aura Device,Device,0,83,5.0,415.0
+2025-10,2025,10,El Born,3,Aura Pods,Pods,0,182,4.25,773.5
+2025-10,2025,10,El Born,4,Aura Nicotine Pouches,Pouches,2,69,5.0,345.0
+2025-10,2025,10,Nou Barris,1,Aura Starter Kit,Starter,0,30,8.5,255.0
+2025-10,2025,10,Nou Barris,2,Aura Device,Device,1,71,5.0,355.0
+2025-10,2025,10,Nou Barris,3,Aura Pods,Pods,2,143,4.25,607.75
+2025-10,2025,10,Nou Barris,4,Aura Nicotine Pouches,Pouches,2,102,5.0,510.0
+2025-10,2025,10,Sant Martí,1,Aura Starter Kit,Starter,1,51,8.5,433.5
+2025-10,2025,10,Sant Martí,2,Aura Device,Device,0,72,5.0,360.0
+2025-10,2025,10,Sant Martí,3,Aura Pods,Pods,3,190,4.25,807.5
+2025-10,2025,10,Sant Martí,4,Aura Nicotine Pouches,Pouches,2,114,5.0,570.0
+2025-11,2025,11,Barcelona Centro,1,Aura Starter Kit,Starter,0,23,8.5,195.5
+2025-11,2025,11,Barcelona Centro,2,Aura Device,Device,0,74,5.0,370.0
+2025-11,2025,11,Barcelona Centro,3,Aura Pods,Pods,2,166,4.25,705.5
+2025-11,2025,11,Barcelona Centro,4,Aura Nicotine Pouches,Pouches,0,74,5.0,370.0
+2025-11,2025,11,Eixample,1,Aura Starter Kit,Starter,2,56,8.5,476.0
+2025-11,2025,11,Eixample,2,Aura Device,Device,2,56,5.0,280.0
+2025-11,2025,11,Eixample,3,Aura Pods,Pods,0,119,4.25,505.75
+2025-11,2025,11,Eixample,4,Aura Nicotine Pouches,Pouches,0,97,5.0,485.0
+2025-11,2025,11,Gracia,1,Aura Starter Kit,Starter,1,51,8.5,433.5
+2025-11,2025,11,Gracia,2,Aura Device,Device,3,44,5.0,220.0
+2025-11,2025,11,Gracia,3,Aura Pods,Pods,1,106,4.25,450.5
+2025-11,2025,11,Gracia,4,Aura Nicotine Pouches,Pouches,1,107,5.0,535.0
+2025-11,2025,11,Sants,1,Aura Starter Kit,Starter,2,33,8.5,280.5
+2025-11,2025,11,Sants,2,Aura Device,Device,2,74,5.0,370.0
+2025-11,2025,11,Sants,3,Aura Pods,Pods,0,95,4.25,403.75
+2025-11,2025,11,Sants,4,Aura Nicotine Pouches,Pouches,0,144,5.0,720.0
+2025-11,2025,11,Poblenou,1,Aura Starter Kit,Starter,0,26,8.5,221.0
+2025-11,2025,11,Poblenou,2,Aura Device,Device,2,73,5.0,365.0
+2025-11,2025,11,Poblenou,3,Aura Pods,Pods,0,157,4.25,667.25
+2025-11,2025,11,Poblenou,4,Aura Nicotine Pouches,Pouches,0,132,5.0,660.0
+2025-11,2025,11,Diagonal Mar,1,Aura Starter Kit,Starter,1,46,8.5,391.0
+2025-11,2025,11,Diagonal Mar,2,Aura Device,Device,2,51,5.0,255.0
+2025-11,2025,11,Diagonal Mar,3,Aura Pods,Pods,0,80,4.25,340.0
+2025-11,2025,11,Diagonal Mar,4,Aura Nicotine Pouches,Pouches,1,137,5.0,685.0
+2025-11,2025,11,Les Corts,1,Aura Starter Kit,Starter,3,22,8.5,187.0
+2025-11,2025,11,Les Corts,2,Aura Device,Device,3,58,5.0,290.0
+2025-11,2025,11,Les Corts,3,Aura Pods,Pods,0,139,4.25,590.75
+2025-11,2025,11,Les Corts,4,Aura Nicotine Pouches,Pouches,3,152,5.0,760.0
+2025-11,2025,11,El Born,1,Aura Starter Kit,Starter,2,32,8.5,272.0
+2025-11,2025,11,El Born,2,Aura Device,Device,3,74,5.0,370.0
+2025-11,2025,11,El Born,3,Aura Pods,Pods,0,191,4.25,811.75
+2025-11,2025,11,El Born,4,Aura Nicotine Pouches,Pouches,0,105,5.0,525.0
+2025-11,2025,11,Nou Barris,1,Aura Starter Kit,Starter,0,33,8.5,280.5
+2025-11,2025,11,Nou Barris,2,Aura Device,Device,2,48,5.0,240.0
+2025-11,2025,11,Nou Barris,3,Aura Pods,Pods,3,144,4.25,612.0
+2025-11,2025,11,Nou Barris,4,Aura Nicotine Pouches,Pouches,2,56,5.0,280.0
+2025-11,2025,11,Sant Martí,1,Aura Starter Kit,Starter,0,31,8.5,263.5
+2025-11,2025,11,Sant Martí,2,Aura Device,Device,3,86,5.0,430.0
+2025-11,2025,11,Sant Martí,3,Aura Pods,Pods,0,83,4.25,352.75
+2025-11,2025,11,Sant Martí,4,Aura Nicotine Pouches,Pouches,1,103,5.0,515.0
+2025-12,2025,12,Barcelona Centro,1,Aura Starter Kit,Starter,3,45,8.5,382.5
+2025-12,2025,12,Barcelona Centro,2,Aura Device,Device,2,64,5.0,320.0
+2025-12,2025,12,Barcelona Centro,3,Aura Pods,Pods,3,172,4.25,731.0
+2025-12,2025,12,Barcelona Centro,4,Aura Nicotine Pouches,Pouches,2,96,5.0,480.0
+2025-12,2025,12,Eixample,1,Aura Starter Kit,Starter,3,44,8.5,374.0
+2025-12,2025,12,Eixample,2,Aura Device,Device,0,39,5.0,195.0
+2025-12,2025,12,Eixample,3,Aura Pods,Pods,0,112,4.25,476.0
+2025-12,2025,12,Eixample,4,Aura Nicotine Pouches,Pouches,2,92,5.0,460.0
+2025-12,2025,12,Gracia,1,Aura Starter Kit,Starter,0,54,8.5,459.0
+2025-12,2025,12,Gracia,2,Aura Device,Device,1,72,5.0,360.0
+2025-12,2025,12,Gracia,3,Aura Pods,Pods,1,114,4.25,484.5
+2025-12,2025,12,Gracia,4,Aura Nicotine Pouches,Pouches,3,110,5.0,550.0
+2025-12,2025,12,Sants,1,Aura Starter Kit,Starter,0,49,8.5,416.5
+2025-12,2025,12,Sants,2,Aura Device,Device,0,55,5.0,275.0
+2025-12,2025,12,Sants,3,Aura Pods,Pods,0,166,4.25,705.5
+2025-12,2025,12,Sants,4,Aura Nicotine Pouches,Pouches,1,68,5.0,340.0
+2025-12,2025,12,Poblenou,1,Aura Starter Kit,Starter,0,52,8.5,442.0
+2025-12,2025,12,Poblenou,2,Aura Device,Device,0,83,5.0,415.0
+2025-12,2025,12,Poblenou,3,Aura Pods,Pods,2,122,4.25,518.5
+2025-12,2025,12,Poblenou,4,Aura Nicotine Pouches,Pouches,3,70,5.0,350.0
+2025-12,2025,12,Diagonal Mar,1,Aura Starter Kit,Starter,3,50,8.5,425.0
+2025-12,2025,12,Diagonal Mar,2,Aura Device,Device,0,58,5.0,290.0
+2025-12,2025,12,Diagonal Mar,3,Aura Pods,Pods,1,237,4.25,1007.25
+2025-12,2025,12,Diagonal Mar,4,Aura Nicotine Pouches,Pouches,1,77,5.0,385.0
+2025-12,2025,12,Les Corts,1,Aura Starter Kit,Starter,0,41,8.5,348.5
+2025-12,2025,12,Les Corts,2,Aura Device,Device,1,39,5.0,195.0
+2025-12,2025,12,Les Corts,3,Aura Pods,Pods,0,82,4.25,348.5
+2025-12,2025,12,Les Corts,4,Aura Nicotine Pouches,Pouches,1,87,5.0,435.0
+2025-12,2025,12,El Born,1,Aura Starter Kit,Starter,1,46,8.5,391.0
+2025-12,2025,12,El Born,2,Aura Device,Device,1,45,5.0,225.0
+2025-12,2025,12,El Born,3,Aura Pods,Pods,0,150,4.25,637.5
+2025-12,2025,12,El Born,4,Aura Nicotine Pouches,Pouches,0,93,5.0,465.0
+2025-12,2025,12,Nou Barris,1,Aura Starter Kit,Starter,3,44,8.5,374.0
+2025-12,2025,12,Nou Barris,2,Aura Device,Device,0,43,5.0,215.0
+2025-12,2025,12,Nou Barris,3,Aura Pods,Pods,0,122,4.25,518.5
+2025-12,2025,12,Nou Barris,4,Aura Nicotine Pouches,Pouches,0,108,5.0,540.0
+2025-12,2025,12,Sant Martí,1,Aura Starter Kit,Starter,1,33,8.5,280.5
+2025-12,2025,12,Sant Martí,2,Aura Device,Device,0,63,5.0,315.0
+2025-12,2025,12,Sant Martí,3,Aura Pods,Pods,0,182,4.25,773.5
+2025-12,2025,12,Sant Martí,4,Aura Nicotine Pouches,Pouches,2,131,5.0,655.0
